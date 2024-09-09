@@ -1,5 +1,5 @@
 # Haiti_rural-socioeconomics
-Shiny app tool for visualizing and exploring socio-economic and geographical data of rural sections summarized by commune in Haiti.  
+Shiny app tool for visualizing and exploring socio-economic and geographical data of rural sections summarized by commune in Haiti. By Patrick Prezeau Stephenson and Jean Francois Tardieu.
 # Haiti Rural Sections Insights Shiny App
 
 ## Overview
@@ -27,6 +27,8 @@ The dataset `sections_geocoded.csv` contains information about Haiti’s rural s
 - **PC_3kmSant**: Percentage of population within 3 km of a health center.
 - **PC_3kmLekol**: Percentage of population within 3 km of a school.
 - **latitude** and **longitude**: Geographic coordinates of the rural sections.
+
+- The original data 'seksyon_redui.csv' is more granular at the communal section level and was made graciously available by Jean Francois Tardieu (Quisqueya University).
 
 ## Getting Started
 
