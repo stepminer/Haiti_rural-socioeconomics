@@ -1,0 +1,571 @@
+fid,Longitude,Latitude,NAME_SEC,DEPARTEMENT,COMMUNE,ID_SEC_COR,ARRONDISSEMENT,AIRE_KM2,PC_AGL2010,PLUV_MIN,PLUV_MAX,ALT_MIN,ALT_MAX,POPES2021,DANSI2021,DEPATMAN,KOMIN,SEKSYON,AWONDISMAN,PC0_12,PC12_30,PC30_60,PC_60plus,PC_POV,Elvaj_Venal,Elvaj_Dominant,PC_3kmSant,PC_3kmLekol
+1,-73.8325748456678,18.1644688698476,1ère Boury,Sud,Torbeck,712-01,Cayes,42.4953,91,4,5,0,40,28606,673,Sid,Tòbèk,1e Bouri,Okay,99.8,0.2,0,0,49,579181,Bovin,1,0
+2,-72.4236660120463,19.6003500764431,8ème Ilot à Cornes,Nord,Limbé,361-08,Limbé,25.4538,37,4,5,110,850,4530,178,Nò,Lenbe,8e Ilowakòn,Lenbe,2.7,66.7,30.7,0,73,377293,Bovin,47,11
+3,-73.3863397938989,18.4233642898744,3 ème Arnaud,Nippes,Arnaud,1024-03,Anse à Veau,21.1222,49,3,4,70,440,5467,259,Nip,Ano,3e Ano,Ansavo,24.1,55.3,20.6,0,54,238280,Bovin,25,0
+4,-73.4026123556364,18.4725223725602,1ère Baconnois-Barreau,Nippes,Arnaud,1024-01,Anse à Veau,34.2099,56,3,3,20,630,8561,250,Nip,Ano,1e Bakonwa-Bawo,Ansavo,22.2,53.1,24.7,0,59,308414,Bovin,36,0
+5,-73.3558557987095,18.4349773737288,2ème Baquet,Nippes,Arnaud,1024-02,Anse à Veau,18.7411,62,3,4,40,510,4231,226,Nip,Ano,2e Bakè,Ansavo,38.8,39.8,21.4,0,63,377326,Bovin,62,0
+6,-73.9386270710499,18.3319301529396,4ème Moreau,Sud,Torbeck,712-04,Cayes,44.3588,53,5,7,160,1860,9312,210,Sid,Tòbèk,4e Mowo,Okay,13.6,22.6,42.3,21.6,72,763242,Bovin,70,29
+7,-72.2560999216805,19.6004717436544,3ème Grand Boucan,Nord,Plaine du Nord,322-03,Acul du Nord,22.3564,72,4,5,40,730,8190,366,Nò,Plèndinò,3e Gran Boukan,Akildinò,40.8,52.7,6.6,0,58,234704,Bovin,3,0
+8,-72.2500807578022,19.650676343657,4ème Bassin Diamant,Nord,Plaine du Nord,322-04,Acul du Nord,6.0688,99,4,4,10,40,1735,286,Nò,Plèndinò,4e Basen Dyaman,Akildinò,99.8,0,0,0,66,112221,Bovin,35,0
+9,-73.8553347549134,18.2081251163343,2ème Bérault,Sud,Torbeck,712-02,Cayes,48.7322,81,5,5,30,110,23077,474,Sid,Tòbèk,2e Bero,Okay,100,0,0,0,51,519751,Bovin,15,4
+10,-73.1117538833168,19.8639210506266,2ème Guinaudée,Nord Ouest,Jean Rabel,934-02,Môle Saint Nicolas,104.7568,49,1,3,0,660,36940,353,Nòdwès,Jan Rabèl,2e Ginode,Mòl Sen Nikola,64.3,35,0.8,0,58,1645838,Caprin,29,1
+11,-72.2821719681163,19.7321734774872,1ère Morne rouge,Nord,Plaine du Nord,322-01,Acul du Nord,42.5162,96,4,4,0,710,23087,543,Nò,Plèndinò,1e Mòn Wouj,Akildinò,53.1,12.5,34.4,0,50,732454,Bovin,0,0
+12,-73.9025880030962,18.2713345990176,3ème Solon,Sud,Torbeck,712-03,Cayes,53.6592,61,5,6,90,560,19340,360,Sid,Tòbèk,3e Solon,Okay,44.1,51.7,4.2,0,57,441452,Bovin,25,0
+13,-73.1393250905231,19.8096835339352,3ème Vielle Hatte,Nord Ouest,Jean Rabel,934-03,Môle Saint Nicolas,100.8741,54,1,3,0,640,40363,400,Nòdwès,Jan Rabèl,3e Vyeyat,Mòl Sen Nikola,53.1,43.9,2.9,0,58,1265780,Caprin,17,0
+14,-72.2634870609969,19.673035625428,2ème Basse Plaine,Nord,Plaine du Nord,322-02,Acul du Nord,29.7512,79,4,4,10,40,12504,420,Nò,Plèndinò,2e Basplenn,Akildinò,100,0,0,0,53,334811,Bovin,1,0
+15,-73.0473723938333,19.8333362467673,1ère Lacoma,Nord Ouest,Jean Rabel,934-01,Môle Saint Nicolas,136.1614,35,1,3,0,710,42860,315,Nòdwès,Jan Rabèl,1e Lakoma,Mòl Sen Nikola,65.9,32.1,2,0,61,1462366,Caprin,44,3
+16,-72.4413376662314,19.320847553356,7ème mamont,Artibonite,Saint-Michel,551-07,Marmelade,97.8679,52,3,5,340,1080,33584,343,Latibonit,Sen Michèl Latalay,7e Mamon,Mamlad,46.5,43.6,10,0,57,2044908,Bovin,29,0
+17,-73.2042763196762,19.805206920824,6ème Grande Source,Nord Ouest,Jean Rabel,934-06,Môle Saint Nicolas,32.2013,70,3,3,80,870,18331,569,Nòdwès,Jan Rabèl,6e Gran Sous,Mòl Sen Nikola,15.5,62.9,21.6,0,64,540212,Bovin,21,0
+18,-72.2703123416936,19.333250048324,8ème l'Attalaye,Artibonite,Saint-Michel,551-08,Marmelade,123.9332,56,2,4,330,650,39828,321,Latibonit,Sen Michèl Latalay,8e Latalay,Mamlad,96.8,3.2,0,0,55,857930,Bovin,62,0
+19,-73.2292099578834,19.8616964744644,7ème Diondion,Nord Ouest,Jean Rabel,934-07,Môle Saint Nicolas,47.7574,49,1,3,0,660,22171,464,Nòdwès,Jan Rabèl,7e Dyondyon,Mòl Sen Nikola,31,63.9,5.1,0,59,691911,Caprin,30,0
+20,-72.2823840167729,19.2383613355743,5ème L'Ermite,Artibonite,Saint-Michel,551-05,Marmelade,45.4054,19,4,5,300,840,16462,363,Latibonit,Sen Michèl Latalay,5e Lèmit,Mamlad,77.1,22.9,0,0,71,710571,Bovin,38,0
+21,-73.1531982714645,19.7774225982057,4ème La Montagne,Nord Ouest,Jean Rabel,934-04,Môle Saint Nicolas,31.7302,61,2,3,120,880,16179,510,Nòdwès,Jan Rabèl,4e Lamontay,Mòl Sen Nikola,26.1,62.4,11.6,0,59,292176,Caprin,31,6
+22,-72.3427470210456,19.2790320900262,6ème Lacedras,Artibonite,Saint-Michel,551-06,Marmelade,104.7261,15,4,5,320,850,39756,380,Latibonit,Sen Michèl Latalay,6e Lasedra,Mamlad,71.7,27.7,0.6,0,57,516505,Bovin,57,0
+23,-73.2390324802715,19.7978913265471,5ème Dessources,Nord Ouest,Jean Rabel,934-05,Môle Saint Nicolas,30.6369,83,2,3,100,690,21270,694,Nòdwès,Jan Rabèl,5e Desous,Mòl Sen Nikola,35.3,64.5,0.2,0,50,265593,Caprin,21,0
+24,-72.331415712769,19.4198163905638,3ème Bas de Sault,Artibonite,Saint-Michel,551-03,Marmelade,38.2339,90,2,4,420,820,34855,912,Latibonit,Sen Michèl Latalay,3e Badeso,Mamlad,72,26.2,1.7,0,50,1365321,Bovin,16,0
+25,-72.2716216884786,19.4240455858688,4ème Lalomas,Artibonite,Saint-Michel,551-04,Marmelade,66.6851,76,2,4,450,1060,39504,592,Latibonit,Sen Michèl Latalay,4e Laloma,Mamlad,49.5,47.5,3,0,53,927085,Bovin,57,0
+26,-72.3919062414027,19.3631326993697,1ère Platana,Artibonite,Saint-Michel,551-01,Marmelade,77.6031,52,3,4,370,1470,31432,405,Latibonit,Sen Michèl Latalay,1e Platana,Mamlad,42.8,36.1,21.1,0,52,783463,Bovin,62,12
+27,-72.3642389645204,19.4325135801487,2ème Camathe,Artibonite,Saint-Michel,551-02,Marmelade,48.147,63,2,4,430,950,17935,373,Latibonit,Sen Michèl Latalay,2e Kamat,Mamlad,56.6,43.4,0,0,56,348976,Bovin,78,0
+28,-72.3328219025533,18.5939183738902,1ère Varreux,Ouest,Cité Soleil,117-01,Port-au-Prince,16.3336,99,3,3,0,20,123730,7575,Lwès,Site Solèy,1e Vare,Pòtoprens,100.1,0,0,0,41,837952,Bovin,0,0
+29,-72.3068206500947,18.594343185009,2ème Varreux,Ouest,Cité Soleil,117-02,Port-au-Prince,5.0854,100,3,3,20,30,49392,9713,Lwès,Site Solèy,2e Vare,Pòtoprens,100,0,0,0,46,493944,Bovin,0,0
+30,-72.8304474680487,19.6779020658644,3ème Lagon,Artibonite,Terre Neuve,522-03,Gros Morne,41.5739,62,3,3,240,1030,12375,298,Latibonit,Tènèv,3e Lagon,Gwo Mòn,7.4,65.5,27.1,0,57,906551,Caprin,44,0
+31,-71.9390476714302,19.5271877381387,2ème Bas des Perches,Nord Est,Perches,413-02,Fort-Liberté,24.4247,77,3,5,70,1040,8525,349,Nòdès,Opèch,2e Ba Dèpèch,Fò Libète,58.7,21.2,20.1,0,62,196735,Bovin,8,0
+32,-72.7719991669127,19.5721462757722,1ère Dolan,Artibonite,Terre Neuve,522-01,Gros Morne,89.9579,21,2,3,150,1070,11196,124,Latibonit,Tènèv,1e Dolan,Gwo Mòn,7.7,60.2,32.1,0,66,242633,Bovin,73,0
+33,-72.8240971745522,19.6246604086446,2ème Bois Neuf,Artibonite,Terre Neuve,522-02,Gros Morne,49.6145,28,2,3,150,960,7083,143,Latibonit,Tènèv,2e Bwa Nèf,Gwo Mòn,11.3,63.5,25.2,0,75,129670,Bovin,45,0
+34,-71.9280082205981,19.5036780697582,1ère Haut des Perches,Nord Est,Perches,413-01,Fort-Liberté,15.9735,18,4,5,90,1010,3001,188,Nòdès,Opèch,1e Wo Dèpèch,Fò Libète,60.4,0.7,38.9,0,72,150300,Bovin,11,0
+35,-72.4509430831118,19.5798679020304,5ème La trouble,Nord,Plaisance,371-05,Plaisance,15.6329,45,4,4,350,720,3598,230,Nò,Plezans,5e Latwoub,Plezans,87.3,9.1,3.6,0,54,147559,Bovin,37,0
+36,-72.4418502189968,19.5489052924862,6ème La Ville,Nord,Plaisance,371-06,Plaisance,15.3932,28,4,4,360,1050,4798,312,Nò,Plezans,6e Lavil,Plezans,37.8,44.8,17.3,0,68,238604,Bovin,86,0
+37,-72.4821427112199,19.6407822768133,3ème Haut Martineau,Nord,Plaisance,371-03,Plaisance,9.2076,72,4,5,330,790,3552,386,Nò,Plezans,3e Wo Matino,Plezans,11.7,77.5,10.6,0,66,217067,Bovin,79,0
+38,-72.5170893249323,19.5966045586258,4ème Mapou,Nord,Plaisance,371-04,Plaisance,18.3149,0,4,4,340,1010,5009,273,Nò,Plezans,4e Mapou,Plezans,34.4,42.2,23.4,0,69,356989,Bovin,73,0
+39,-72.5070725469289,19.6393108083992,1ère Gobert,Nord,Plaisance,371-01,Plaisance,12.9258,76,4,4,300,860,6023,466,Nò,Plezans,1e Gobè,Plezans,12.2,81.1,6.7,0,52,179498,Bovin,100,0
+40,-72.4619161296479,19.637790211547,2ème Champagne,Nord,Plaisance,371-02,Plaisance,13.1787,38,4,5,430,1070,165,13,Nò,Plezans,2e Chanpay,Plezans,9.6,55.8,34.6,0,73,152748,Bovin,47,0
+41,-71.8402803761193,18.3508744696208,1ère Fonds-Verrettes,Ouest,Fonds-Verrettes,135-01,Croix des Bouquets,287.256,58,2,5,350,2370,95722,333,Lwès,Fon Vèrèt,1e Fon Vèrèt,Kwadèboukè,12.4,64.6,22.1,0.9,56,2489028,Bovin,52,1
+42,-72.3075174051023,19.5338575218912,5ème Haut du Trou,Nord,Dondon,342-05,Saint Raphaël,20.0289,52,5,5,480,980,6687,334,Nò,Dondon,5e Woditwou,Sen Rafayèl,34.5,46.4,19,0,74,44381,Bovin,100,0
+43,-72.2924493082754,19.4877425449816,3ème Matador,Nord,Dondon,342-03,Saint Raphaël,34.5764,50,4,5,450,1070,12452,360,Nò,Dondon,3e Matadò,Sen Rafayèl,12.9,66.7,20.4,0,70,141196,Bovin,76,0
+44,-72.2700354511965,19.5352850161236,4ème Laguille,Nord,Dondon,342-04,Saint Raphaël,25.2069,68,5,5,420,900,15196,603,Nò,Dondon,4e Lagiy,Sen Rafayèl,16.2,66,17.7,0,73,146389,Bovin,23,0
+45,-72.2372695457415,19.5555496642856,1ère Brostage,Nord,Dondon,342-01,Saint Raphaël,21.4918,75,5,5,420,850,7840,365,Nò,Dondon,1e Bwostaj,Sen Rafayèl,20.6,61.3,18,0,60,179572,Bovin,36,0
+46,-72.2349723307227,19.5055277047028,2ème Bassin Caiman,Nord,Dondon,342-02,Saint Raphaël,19.0794,24,4,5,400,1010,6476,339,Nò,Dondon,Basen Kayiman,Sen Rafayèl,36.2,46.3,17.5,0,52,120099,Bovin,30,0
+47,-74.0670865421844,18.2678750130379,1ère Paricot,Sud,Port-à-Piment,742-01,Coteaux,22.2858,68,3,5,0,840,8185,367,Sid,Pòtapiman,1e Pariko,Okoto,5.9,66.4,27.6,0,63,212667,Bovin,27,0
+48,-74.0657293507066,18.3032556613386,2ème Balais,Sud,Port-à-Piment,742-02,Coteaux,35.2266,7,3,5,40,1010,5750,163,Sid,Pòtapiman,2e Bale,Okoto,0,49.6,50.4,0,67,246921,Bovin,66,0
+49,-72.4030666656881,19.7255771507171,1ère Garde Champêtre,Nord,Bas Limbé,362-01,Limbé,12.9689,82,4,4,20,610,8818,680,Nò,Ba Lenbe,1e Gad Chanpèt,Lenbe,83.9,5.7,10.5,0,64,313328,Bovin,60,0
+50,-71.7956071862655,19.3230413336182,2ème Rose Bonite,Nord Est,Carice,442-02,Valières,32.7762,25,4,5,550,990,9014,275,Nòdès,Karis,2e Woz Bonit,Valyè,60.4,25.4,14.3,0,49,195122,Bovin,48,0
+51,-72.3927465800993,19.771977829509,2ème Petit Howars,Nord,Bas Limbé,362-02,Limbé,39.5036,73,4,4,0,400,16200,410,Nò,Ba Lenbe,2e Ti Owa,Lenbe,69.6,26.3,4.1,0,56,587180,Bovin,14,0
+52,-71.8565993583073,19.3941179354956,1ère Bois Gamelle,Nord Est,Carice,442-01,Valières,23.4409,66,5,5,600,1030,9173,391,Nòdès,Karis,1e Bwa Gamèl,Valyè,62.5,8.8,28.7,0,54,290488,Bovin,96,0
+53,-73.6353172347805,18.0774602771162,Ile à Vache,Sud,Ile à Vache,716-01,Cayes,45.9627,59,4,4,0,60,13791,300,Sid,Ilavach,Ilavach,Okay,94.8,5.2,0,0,54,1029092,Bovin,34,0
+54,-73.1365459472891,18.4126418149794,2ème Bezin II,Nippes,Paillant,1014-02,Miragoâne,28.6244,54,3,4,30,850,8921,312,Nip,Payan,2e Bezen II,Miragwàn,33.8,66.2,0,0,56,509266,Bovin,5,0
+55,-73.1955275418824,18.4151333501012,1ère Salagnac,Nippes,Paillant,1014-01,Miragoâne,37.3122,54,3,4,280,1040,12797,343,Nip,Payan,1e Salayak,Miragwàn,34.1,53.3,12.6,0,55,300337,Bovin,20,0
+56,-74.3710148185512,18.3446658084701,3ème Loby,Sud,Tiburon,753-03,Chardonnières,47.9788,43,2,3,0,1090,7135,149,Sid,Tibiwon,3e Lobi,Chadonyè,1.4,45.1,47.1,6.4,65,427861,Bovin,66,0
+57,-74.2741934660247,18.3174240309332,4ème Dalmette,Sud,Tiburon,753-04,Chardonnières,30.0219,56,2,3,0,720,3161,105,Sid,Tibiwon,4e Dalmèt,Chadonyè,33.5,39.8,26.8,0,66,440678,Bovin,100,0
+58,-74.3389129811206,18.3130002871132,1ère Blactote,Sud,Tiburon,753-01,Chardonnières,30.4046,23,2,2,0,350,5699,187,Sid,Tibiwon,1e Blaktòt,Chadonyè,35.5,62.3,2.1,0,64,623173,Bovin,82,0
+59,-74.2770682508859,18.357496275704,2ème Nan Sevré,Sud,Tiburon,753-02,Chardonnières,38.959,0,2,5,100,1260,3665,94,Sid,Tibiwon,2e Nan Sevre,Chadonyè,2.1,19.4,75.1,3.4,77,715712,Bovin,81,18
+60,-72.6387892796748,19.8399726591885,1ère Bas de Sainte Anne,Nord Ouest,Anse à Foleur,922-01,Saint Louis du Nord,26.2681,26,5,5,80,850,8128,309,Nòdwès,Ansafolè,1e Ba Sent Àn,Sen Lwi nan Nò,5.9,77.9,16.2,0,70,379320,Bovin,9,3
+61,-72.6369165985044,19.8751202244206,2ème Mayance,Nord Ouest,Anse à Foleur,922-02,Saint Louis du Nord,24.7791,53,4,5,0,820,6512,263,Nòdwès,Ansafolè,2e Mayans,Sen Lwi nan Nò,10.2,49.6,40.2,0,79,162460,Bovin,9,0
+62,-72.4026587609914,18.3076347919629,4ème Fond Melon Michineau,Sud-Est,Cayes-Jacmel,213-04,Jacmel,21.3705,30,4,5,270,1460,6697,313,Sidès,Kay Jakmèl,4e Fon Melon Michino,Jakmèl,0,45.5,54.5,0,79,183789,Bovin,92,0
+63,-72.3807225788399,18.2618854417878,2ème Gaillard,Sud-Est,Cayes-Jacmel,213-02,Jacmel,27.0456,68,4,5,0,1140,10172,376,Sidès,Kay Jakmèl,2e Gaya,Jakmèl,14,65.9,20.1,0,63,391566,Bovin,19,0
+64,-72.4233148480627,18.2775152872323,3ème Haut Cap Rouge,Sud-Est,Cayes-Jacmel,213-03,Jacmel,15.9483,67,4,4,430,940,7104,445,Sidès,Kay Jakmèl,3e Wo Kap Wouj,Jakmèl,23.1,73.9,2.9,0,74,209252,Bovin,17,0
+65,-72.4191669447183,18.2443654705878,1ère Ravine Normande,Sud-Est,Cayes-Jacmel,213-01,Jacmel,15.8409,73,4,4,0,590,9770,617,Sidès,Kay Jakmèl,1e Ravin Nòmand,Jakmèl,40.6,51.3,8.2,0,53,241851,Bovin,8,0
+66,-72.5932122108613,19.8754848340941,3ème Cote de Fer,Nord Ouest,Anse à Foleur,922-03,Saint Louis du Nord,19.2868,34,4,5,0,570,7485,388,Nòdwès,Ansafolè,3e Kotdefè,Sen Lwi nan Nò,2.1,65,32.9,0,72,114859,Bovin,1,2
+67,-72.4869939938859,19.6088457073118,7ème Bassin,Nord,Plaisance,371-07,Plaisance,13.2859,89,4,4,310,870,13142,989,Nò,Plezans,7e Basen,Plezans,42.1,48.9,8.9,0,52,259149,Bovin,8,0
+68,-72.4802437029433,19.5584746340508,8ème Grande Rivière,Nord,Plaisance,371-08,Plaisance,23.9384,68,4,4,340,1040,10053,420,Nò,Plezans,8e Gran Rivyè,Plezans,33.3,52.2,14.5,0,56,168322,Bovin,57,0
+69,-72.1863225106392,19.5307179813983,5ème Jolitrou,Nord,Grande Riviere du Nord,331-05,Grande Rivière Du Nord,29.2326,45,3,5,70,860,11804,404,Nò,Gran Rivyè Nò,5e Jolitwou,Gran Rivyè Nò,9.1,76.4,14.6,0,67,290854,Bovin,60,0
+70,-72.1927674766536,19.5631642263696,9ème Cormiers,Nord,Grande Riviere du Nord,331-06,Grande Rivière Du Nord,15.949,76,3,5,60,740,11999,752,Nò,Gran Rivyè Nò,9e Kòmye,Gran Rivyè Nò,16.3,71.1,12.5,0,50,219718,Bovin,17,0
+71,-72.1184679985429,19.5300721753861,3ème Caracol,Nord,Grande Riviere du Nord,331-03,Grande Rivière Du Nord,21.0454,19,3,4,90,670,4329,206,Nò,Gran Rivyè Nò,3e Karakòl,Gran Rivyè Nò,2.8,83.3,13.9,0,68,132191,Bovin,100,10
+72,-72.1543351244171,19.5227832717634,4ème Gambade,Nord,Grande Riviere du Nord,331-04,Grande Rivière Du Nord,17.7291,51,3,4,80,690,5632,318,Nò,Gran Rivyè Nò,4e Ganbad,Gran Rivyè Nò,9.7,68.2,22.1,0,53,91905,Bovin,100,13
+73,-71.9567015015344,19.3601176881881,1ère Sans Souci,Nord Est,Mombin Crochu,443-01,Valières,69.4312,28,4,5,350,1110,15361,221,Nòdès,Menben Kwochi,1e San Sousi,Valyè,41,40.2,18.7,0,56,610344,Bovin,96,2
+74,-72.1867055500938,19.5944960446742,1ère Grand Gilles,Nord,Grande Riviere du Nord,331-01,Grande Rivière Du Nord,19.5174,86,3,5,40,720,5508,282,Nò,Gran Rivyè Nò,1e Gran Jil,Gran Rivyè Nò,28.1,27.9,43.9,0,60,96198,Bovin,5,0
+75,-71.8572645493325,19.3175544355719,2ème Bois Laurence,Nord Est,Mombin Crochu,443-02,Valières,131.1124,12,4,5,520,1160,24251,185,Nòdès,Menben Kwochi,2e Bwa Lorans,Valyè,42.2,27,30.8,0,54,558145,Bovin,72,3
+76,-72.1410241468329,19.5738481194257,2ème Solon,Nord,Grande Riviere du Nord,331-02,Grande Rivière Du Nord,22.9512,0,3,4,60,570,5807,253,Nò,Gran Rivyè Nò,2e Solon,Gran Rivyè Nò,16.7,78.2,5.1,0,55,126603,Bovin,65,7
+77,-72.7936781442869,19.9336292690596,1ère Baudin,Nord Ouest,Port de Paix,911-01,Port-de-Paix,16.2742,96,2,4,0,470,26660,1638,Nòdwès,Pòdpè,1e Boden,Pòdpè,21.1,74.8,4.1,0,45,225720,Bovin,0,0
+78,-72.7687296848894,19.8997449404078,2ème La Pointe,Nord Ouest,Port de Paix,911-02,Port-de-Paix,20.0961,92,4,5,0,1060,16951,843,Nòdwès,Pòdpè,2e Lapwent,Pòdpè,20.3,66.4,13.3,0,71,324035,Bovin,16,0
+79,-73.4743158675375,18.4155830311225,3ème Lièvre,Nippes,Petit Trou de Nippes,1022-03,Anse à Veau,40.1724,25,3,4,150,550,8669,216,Nip,Ti Twou Nip,3e Lyèv,Ansavo,69.8,21.1,9.1,0,57,876866,Bovin,86,0
+80,-73.4706266731139,18.4854798200681,1ère Raymond,Nippes,Petit Trou de Nippes,1022-01,Anse à Veau,56.8154,41,3,4,0,730,10424,183,Nip,Ti Twou Nip,1e Remon,Ansavo,34.5,36.4,29.1,0,64,526632,Bovin,79,0
+81,-73.5360264165501,18.4870730445403,2ème Tiby,Nippes,Petit Trou de Nippes,1022-02,Anse à Veau,58.7752,14,3,4,0,820,9353,159,Nip,Ti Twou Nip,2e Tibi,Ansavo,20.3,44.7,33.1,1.9,63,710432,Bovin,68,0
+82,-71.724840363999,19.4154170001086,2ème Lamine,Nord Est,Capotille,422-02,Ouanaminte,27.6718,2,4,5,110,760,6270,227,Nòdès,Kapotiy,2e Lamin,Wanament,62.9,11.2,26,0,64,391473,Bovin,13,0
+83,-71.7008917903476,19.4602637407606,1ère Capotille,Nord Est,Capotille,422-01,Ouanaminte,33.4221,62,3,4,40,270,14923,447,Nòdès,Kapotiy,1e Kapotiy,Wanament,99.4,0.6,0,0,52,403871,Bovin,25,0
+84,-74.3912955351336,18.3902418509112,2ème Bélair,Grande Anse,Les Irois,823-02,Anse D'Ainault,37.9596,48,3,4,0,1060,4643,122,Grandans,Lèziwa,2e Bèlè,Ansdeno,3.2,46.4,50.4,0,76,382677,Bovin,22,3
+85,-73.8917173778668,18.1048398989297,4ème Barbois,Sud,Port-Salut,721-04,Port-Salut,44.2998,80,4,5,0,350,28359,640,Sid,Pò Sali,4e Babwa,Pò Sali,38.5,60.7,0.8,0,55,483918,Bovin,0,0
+86,-73.8955276002925,18.053247635452,5ème Dumont,Sud,Port-Salut,721-05,Port-Salut,14.2924,84,4,4,0,200,6002,420,Sid,Pò Sali,5e Dimon,Pò Sali,98.9,1.1,0,0,54,442429,Bovin,12,0
+87,-73.923008339584,18.1462858665678,2ème Anse à Drick,Sud,Port-Salut,721-02,Port-Salut,33.1757,57,4,5,0,330,18367,554,Sid,Pò Sali,2e Ansadrik,Pò Sali,29.2,70.8,0,0,58,629813,Bovin,20,0
+88,-71.9068379595971,19.4803916061099,4ème Haut Madeleine,Nord Est,Fort Liberté,411-04,Fort-Liberté,18.9589,0,4,5,100,720,1992,105,Nòdès,Fò Libète,4e Wo Madlèn,Fò Libète,51.6,13.1,35.3,0,76,217310,Bovin,99,0
+89,-73.9296079640865,18.1801790055928,1ère Lazare,Sud,Port-Salut,721-01,Port-Salut,7.9595,66,4,5,60,350,4355,547,Sid,Pò Sali,1e Laza,Pò Sali,9.7,90.2,0,0,59,154822,Bovin,44,0
+90,-71.8709516560561,19.6166139094028,2ème Bayaha,Nord Est,Fort Liberté,411-02,Fort-Liberté,62.4591,32,2,3,0,390,6630,106,Nòdès,Fò Libète,2e Bayaya,Fò Libète,95,3.7,1.3,0,60,255363,Bovin,81,0
+91,-72.5867386562943,19.6014356745107,5ème Labranle,Artibonite,Gonaïves,511-05,Gonaïves,66.5141,32,2,4,150,1070,9791,147,Latibonit,Gonayiv,5e Labrani,Gonayiv,2.4,74.5,23.1,0,64,444120,Bovin,94,2
+92,-71.8613269484157,19.4954229692734,3ème L'Oiseau,Nord Est,Fort Liberté,411-03,Fort-Liberté,71.3795,41,3,5,50,1140,6471,91,Nòdès,Fò Libète,3e Lwazo,Fò Libète,61.6,9.4,29,0,66,70003,Bovin,39,5
+93,-72.9512781736675,19.864412525065,5ème Bas des Moustiques,Nord Ouest,Port de Paix,911-05,Port-de-Paix,124.9328,14,1,3,0,410,26758,214,Nòdwès,Pòdpè,5e Ba Moustik,Pòdpè,83.5,16.5,0,0,65,842481,Bovin,16,0
+94,-72.5418284811376,19.4307581230864,3ème Rivière de Bayonnais,Artibonite,Gonaïves,511-03,Gonaïves,170.4051,58,2,4,30,1470,66380,390,Latibonit,Gonayiv,3e Rivyè Bayonè,Gonayiv,29.1,57.5,13.4,0,61,956137,Bovin,64,0
+95,-72.8746072760352,19.8938104585704,6ème La Corne,Nord Ouest,Port de Paix,911-06,Port-de-Paix,70.9864,42,1,3,0,240,17049,240,Nòdwès,Pòdpè,6e Lakòn,Pòdpè,66.1,33.9,0,0,63,1865170,Bovin,21,0
+96,-71.8240105982853,19.6263373817765,1ère Dumas,Nord Est,Fort Liberté,411-01,Fort-Liberté,84.5358,84,2,3,0,100,30335,359,Nòdès,Fò Libète,1e Dima,Fò Libète,100,0,0,0,55,1088040,Bovin,14,0
+97,-72.6244956174883,19.5532051773422,4ème Poteaux,Artibonite,Gonaïves,511-04,Gonaïves,51.9442,75,1,3,50,870,31555,607,Latibonit,Gonayiv,4e Poto,Gonayiv,67.4,22,10.5,0,56,715415,Bovin,33,0
+98,-72.6421630453803,19.4395227066184,1ère Pont Tamarin,Artibonite,Gonaïves,511-01,Gonaïves,92.7901,97,1,2,0,360,172433,1858,Latibonit,Gonayiv,1e Pon Tamaren,Gonayiv,88.4,9.9,1.7,0,50,1274354,Bovin,3,1
+99,-72.8240529694508,19.9217038632543,3ème Aubert,Nord Ouest,Port de Paix,911-03,Port-de-Paix,21.3949,99,1,4,0,500,98012,4581,Nòdwès,Pòdpè,3e Obè,Pòdpè,39.8,59.7,0.5,0,45,139876,Bovin,0,0
+100,-72.9795093454485,19.7737512219304,4ème Mahotière,Nord Ouest,Port de Paix,911-04,Port-de-Paix,103.0232,30,2,3,80,870,39864,387,Nòdwès,Pòdpè,4e Mawotyè,Pòdpè,58.9,41,0.1,0,58,966460,Caprin,57,0
+101,-72.7080550612884,19.5224447383258,2ème Bassin,Artibonite,Gonaïves,511-02,Gonaïves,186.5381,88,1,3,0,900,69134,371,Latibonit,Gonayiv,2e Basen,Gonayiv,48.9,41.5,9.7,0,63,858178,Bovin,37,0
+102,-74.1456167023052,18.3668085612941,2ème Edelin,Sud,Les Anglais,752-02,Chardonnières,45.1551,0,3,6,70,1990,3274,73,Sid,Lèzanglè,2e Edlen,Chadonyè,0.7,12.1,69.5,17.8,79,456505,Bovin,100,2
+103,-74.2068813262114,18.3543843096612,3ème Cosse,Sud,Les Anglais,752-03,Chardonnières,51.6607,75,2,5,0,1440,14583,282,Sid,Lèzanglè,3e Kòs,Chadonyè,14.1,25.8,60.1,0,64,902778,Bovin,29,0
+104,-71.8705013140357,18.1885667159473,2ème Pot de Chambre,Sud-Est,Thiotte,233-02,Belle Anse,69.401,24,2,5,0,800,6167,89,Sidès,Tyòt,2e Potchanm,Bèl Ans,27.7,69.2,3.1,0,68,682922,Bovin,11,10
+105,-74.424449552008,18.3759903367741,3ème Garcasse,Grande Anse,Les Irois,823-03,Anse D'Ainault,21.2991,70,2,3,0,1010,2806,132,Grandans,Lèziwa,3e Gakas,Ansdeno,6.1,46.4,47.5,0,62,238518,Bovin,21,0
+106,-74.1685876619263,18.3154901662201,1ère Vérone,Sud,Les Anglais,752-01,Chardonnières,23.2063,50,2,3,0,870,5271,227,Sid,Lèzanglè,1e Vewòn,Chadonyè,25.4,26.1,48.5,0,77,388008,Bovin,40,0
+107,-71.8297053380224,18.251819429909,1ère Thiotte,Sud-Est,Thiotte,233-01,Belle Anse,52.029,61,5,5,610,1670,19659,378,Sidès,Tyòt,1e Tyòt,Bèl Ans,34,60.9,5.1,0,52,776220,Bovin,9,0
+108,-74.2697211479894,18.627805999654,1e Anse du Clerc,Grande Anse,Abricots,812-01,Jérémie,18.3118,1,3,5,0,660,4617,252,Grandans,Zabriko,1e Ansdiklè,Jeremi,9.4,75.4,15.2,0,62,254391,Bovin,37,0
+109,-74.2961886523872,18.6144425401389,2e Balisiers,Grande Anse,Abricots,812-02,Jérémie,28.6623,61,3,5,0,650,8653,302,Grandans,Zabriko,2e Balizye,Jeremi,16.7,78.1,5.3,0,59,946138,Bovin,54,0
+110,-72.2722661169904,18.2418924202637,5ème Savane Dubois,Sud-Est,Marigot,212-05,Jacmel,35.6368,73,3,4,0,1000,13755,386,Sidès,Marigo,5e Savann Dibwa,Jakmèl,14.6,51,34.3,0,60,279246,Bovin,14,0
+111,-72.2973961268854,18.3112096460653,3ème Macary,Sud-Est,Marigot,212-03,Jacmel,53.1214,42,4,5,110,2260,13147,247,Sidès,Marigo,3e Makari,Jakmèl,5.2,65.5,26.7,2.6,63,498608,Bovin,37,0
+112,-72.2583723639245,18.288648119017,4ème Fond Jean Noel,Sud-Est,Marigot,212-04,Jacmel,47.9324,38,4,5,170,2210,9003,188,Sidès,Marigo,4e Fon Jan Nwèl,Jakmèl,7.7,81.7,10.2,0.4,58,614912,Bovin,74,0
+113,-72.3470430575441,18.2646768752719,1ère Corail Soult,Sud-Est,Marigot,212-01,Jacmel,25.7977,52,4,5,0,1110,10409,403,Sidès,Marigo,1e Koray Sout,Jakmèl,4.1,61.4,34.4,0.1,64,335947,Bovin,47,0
+114,-72.3459781585006,18.3181516470544,2ème Grande Rivière Fesle,Sud-Est,Marigot,212-02,Jacmel,27.3356,0,4,5,150,1950,5199,190,Sidès,Marigo,2e Gran Rivyè Fèl,Jakmèl,0,27,65,7.9,84,1178129,Bovin,100,0
+115,-72.5272075108513,19.8329170731689,7ème Fond Lagrange,Nord,Borgne,351-07,Borgne,39.8103,53,4,5,0,1160,10496,264,Nò,Obòy,7e Fon Lagranj,Obòy,7,61,26.6,5.4,67,602124,Bovin,13,2
+116,-72.1915817222339,19.7318792143391,3ème Petite Anse,Nord,Cap Haïtien,311-03,Cap Haïtien,14.0445,100,3,4,0,10,118212,8417,Nò,Kap Ayisyen,3e Titans,Kap Ayisyen,100,0,0,0,43,93357,Bovin,0,0
+117,-72.2431817208406,18.4249663049886,5ème Grand Fond,Ouest,Kenscoff,115-05,Port-au-Prince,41.9472,52,4,5,510,1550,18789,448,Lwès,Kenskòf,5e Gran Fon,Pòtoprens,1.8,50.9,47.3,0,54,1625220,Bovin,35,0
+118,-72.623288833572,19.794685871168,5ème Champagne,Nord,Borgne,351-05,Borgne,10.5782,0,5,5,240,960,1807,171,Nò,Obòy,5e Chanpay,Obòy,0,67.4,32.5,0,68,124156,Bovin,99,0
+119,-72.6577708186673,19.8052526170865,6ème Molas,Nord,Borgne,351-06,Borgne,25.7872,0,5,5,170,1080,5590,217,Nò,Obòy,6e Mola,Obòy,1.7,60,38.4,0,69,196276,Bovin,61,0
+120,-72.2262253352244,19.7698721652356,1ère Bande du Nord,Nord,Cap Haïtien,311-01,Cap Haïtien,20.9477,84,4,4,0,670,16818,803,Nò,Kap Ayisyen,1e Banndinò,Kap Ayisyen,4.1,48.9,47,0,49,132176,Bovin,13,0
+121,-72.2307344259088,19.7397136116116,2ème Haut du Cap,Nord,Cap Haïtien,311-02,Cap Haïtien,19.0537,100,4,4,0,790,130685,6859,Nò,Kap Ayisyen,2e Wodikap,Kap Ayisyen,49.4,10.1,40.5,0,42,101900,Bovin,0,0
+122,-72.2927022017071,18.4214942790605,3ème Sourcailles,Ouest,Kenscoff,115-03,Port-au-Prince,45.0725,56,4,5,740,1920,34078,756,Lwès,Kenskòf,3e Sousay,Pòtoprens,0,42.4,57.5,0,46,1129720,Bovin,18,0
+123,-72.584748442846,19.8010540053384,3ème Petit Bourg Du Borgne,Nord,Borgne,351-03,Borgne,30.3839,13,5,5,30,770,10033,330,Nò,Obòy,3e Ti Twou Bòy,Obòy,8.7,76.3,15,0,64,414342,Bovin,24,0
+124,-72.2376374147739,18.3732964709605,4ème Belle Fontaine,Ouest,Kenscoff,115-04,Port-au-Prince,36.1528,0,4,5,520,2240,11114,307,Lwès,Kenskòf,4e Bèl Fontèn,Pòtoprens,0,24.2,57.5,18.3,70,385623,Bovin,100,0
+125,-72.603626270134,19.7731055673144,4ème Trou d'Enfer,Nord,Borgne,351-04,Borgne,10.8753,0,5,5,160,1170,2255,207,Nò,Obòy,4e Twou Lanfè,Obòy,0,50.4,49.6,0,68,166655,Bovin,100,0
+126,-72.5506636578542,19.8157678574038,1ère Margot,Nord,Borgne,351-01,Borgne,33.2928,18,4,5,10,1130,7366,221,Nò,Obòy,1e Mago,Obòy,13.4,37,46.6,2.9,55,286383,Bovin,20,0
+127,-72.3237505254271,18.3671056198614,1ère Nouvelle Tourraine,Ouest,Kenscoff,115-01,Port-au-Prince,42.9359,33,4,5,660,2150,18202,424,Lwès,Kenskòf,1e Nouvèl Tourèn,Pòtoprens,8.6,35.3,50.6,5.5,75,773977,Bovin,97,0
+128,-74.3300236801841,18.5969716392726,3e Danglise,Grande Anse,Abricots,812-03,Jérémie,27.6091,21,3,5,10,590,7027,255,Grandans,Zabriko,3e Danglis,Jeremi,4,87.2,8.9,0,76,350736,Bovin,84,0
+129,-71.9025757942081,18.2617757927051,1ère Colline des Chênes,Sud-Est,Grand Gosier,232-01,Belle Anse,79.5716,34,3,5,0,1770,11819,149,Sidès,Gran Gozye,1e Kolin Dèchèn,Bèl Ans,11.8,75.1,13.1,0,59,1066583,Bovin,25,0
+130,-72.3487065851347,18.4261805934728,2ème Bongars,Ouest,Kenscoff,115-02,Port-au-Prince,37.7554,31,4,5,430,1730,15052,399,Lwès,Kenskòf,2e Bonga,Pòtoprens,0,23.5,75,1.4,56,303985,Bovin,81,37
+131,-72.5416094716551,19.7589407984705,2ème Boucan Michel,Nord,Borgne,351-02,Borgne,31.4055,0,5,5,80,1020,4901,156,Nò,Obòy,2e Boukan Michèl,Obòy,0,50.2,49.8,0,68,567905,Bovin,100,0
+132,-74.3514726641913,18.6255808642853,4e La Seringue,Grande Anse,Abricots,812-04,Jérémie,28.2009,39,3,4,0,250,8133,288,Grandans,Zabriko,4e Lasereng,Jeremi,23.1,76.9,0,0,61,342945,Bovin,85,0
+133,-73.7014700432668,18.5130780227427,5ème Rivière Salée,Nippes,Baradères,1031-05,Baradères,58.8597,6,3,4,0,530,5848,99,Nip,Baradè,5e Rivyè Sale,Baradè,11.5,58.2,30.3,0,74,641414,Bovin,63,1
+134,-73.7224438749113,18.4580694195351,3ème Fond Tortue,Nippes,Baradères,1031-03,Baradères,32.6665,31,4,5,40,940,9472,290,Nip,Baradè,3e Fon Tòti,Baradè,0.1,45.1,54.7,0,56,442684,Bovin,36,0
+135,-73.6881202872826,18.4775401729622,4e La Plaine,Nippes,Baradères,1031-04,Baradères,25.7359,71,3,4,10,740,7140,277,Nip,Baradè,4e Laplenn,Baradè,15.5,60,24.4,0,54,336958,Bovin,82,0
+136,-73.6136686297265,18.4776853097729,1ère Gérin,Nippes,Baradères,1031-01,Baradères,32.9814,21,3,4,0,800,4818,146,Nip,Baradè,2e Geren,Baradè,7.9,64.9,25.3,1.8,75,263702,Bovin,94,0
+137,-73.7157633290108,18.4298880035418,2ème Tête d'Eau,Nippes,Baradères,1031-02,Baradères,37.7055,1,4,6,30,1260,6486,172,Nip,Baradè,2e Tèt Dlo,Baradè,1.1,24.8,69.8,4.3,75,229751,Bovin,76,0
+138,-74.2951944588951,18.4631253510507,3e L'Assive,Grande Anse,Moron,814-03,Jérémie,48.5937,0,4,7,60,910,5266,108,Grandans,Mowon,3e Lasiv,Jeremi,3.6,52.4,43.9,0,73,1879599,Bovin,78,8
+139,-72.3753513742703,18.5131140259118,9ème Bizoton,Ouest,Carrefour,113-09,Port-au-Prince,5.8217,99,3,4,0,820,48342,8304,Lwès,Kafou,9e Bizoton,Pòtoprens,24.4,59.5,16.2,0,39,214343,Caprin,0,0
+140,-74.2606779113,18.570846209126,1e Anotte,Grande Anse,Moron,814-01,Jérémie,21.9879,70,5,6,40,750,13209,601,Grandans,Mowon,1e Anòt,Jeremi,21.3,52.1,26.6,0,57,626768,Bovin,5,0
+141,-74.2531376356481,18.4647426352786,2e Sources Chaudes,Grande Anse,Moron,814-02,Jérémie,110.4215,29,4,7,40,1270,11814,107,Grandans,Mowon,2e Sous Cho,Jeremi,3.2,45.3,48.1,3.4,76,944515,Bovin,62,14
+142,-72.4120508421615,18.4569964580344,7ème Laval,Ouest,Carrefour,113-07,Port-au-Prince,9.6875,67,4,5,300,1090,5318,549,Lwès,Kafou,7e Laval,Pòtoprens,0,3.5,85.2,11.2,68,136799,Bovin,0,0
+143,-72.3794541508456,18.4006354551619,8ème Berly,Ouest,Carrefour,113-08,Port-au-Prince,16.8206,0,5,5,440,1380,4865,289,Lwès,Kafou,8e Bèli,Pòtoprens,0,33.6,66.4,0,68,134077,Bovin,61,0
+144,-72.4481916569265,18.4565220263781,5ème Coupeau,Ouest,Carrefour,113-05,Port-au-Prince,12.9039,56,4,5,190,1370,5683,440,Lwès,Kafou,5e Koupo,Pòtoprens,0,3.7,84,12.3,67,206541,Bovin,95,0
+145,-72.4353453476194,18.4320223016739,6ème Bouvier,Ouest,Carrefour,113-06,Port-au-Prince,14.4851,3,4,5,240,1490,3531,244,Lwès,Kafou,6e Bouvye,Pòtoprens,0,10.6,77.6,11.8,70,200636,Bovin,31,0
+146,-72.4108318539918,18.487446158781,3ème Taïfer,Ouest,Carrefour,113-03,Port-au-Prince,10.2878,42,4,4,180,940,4540,441,Lwès,Kafou,3e Tayifè,Pòtoprens,3.2,47.8,49,0,66,84531,Caprin,9,0
+147,-72.3803445814971,18.458094280017,4ème Procy,Ouest,Carrefour,113-04,Port-au-Prince,17.4313,61,4,5,340,1580,8380,481,Lwès,Kafou,4e Pwosi,Pòtoprens,0,46.5,52.7,0.7,63,143470,Bovin,3,0
+148,-71.7705688745529,19.6411255799311,1ère Bas Maribahoux,Nord Est,Ferrier,412-01,Fort-Liberté,68.2753,69,2,3,0,50,16102,236,Nòdès,Ferye,1e Ba Maribawou,Fò Libète,100,0,0,0,58,740080,Bovin,10,0
+149,-72.4385526528448,18.4970956665859,1ère Morne Chandelle,Ouest,Carrefour,113-01,Port-au-Prince,4.3191,76,4,4,240,620,2692,623,Lwès,Kafou,1e Mòn Chandèl,Pòtoprens,16.2,66,17.8,0,70,42112,Bovin,81,0
+150,-72.3905095113074,18.495577413756,2ème Platon Dufréné,Ouest,Carrefour,113-02,Port-au-Prince,12.7107,28,4,4,160,910,5765,454,Lwès,Kafou,2e Platon Difrene,Pòtoprens,7.5,48.6,44,0,62,155805,Bovin,0,0
+151,-71.9839640554663,19.5576907698275,3ème Roche Plate,Nord Est,Trou du Nord,431-03,Trou du Nord,47.0923,54,3,5,50,880,9276,197,Nòdès,Twoudinò,3e Wòch Plat,Twoudinò,62.6,29.1,8.4,0,54,351517,Bovin,48,0
+152,-72.0409223489003,19.5983306039015,2ème Roucou,Nord Est,Trou du Nord,431-02,Trou du Nord,69.1718,85,3,5,20,690,45696,661,Nòdès,Twoudinò,2e Woukou,Twoudinò,47.8,25.4,26.8,0,72,1458355,Bovin,8,0
+153,-72.0022478718703,19.6246941181084,1ère Garcin,Nord Est,Trou du Nord,431-01,Trou du Nord,13.4603,68,3,3,30,240,3820,284,Nòdès,Twoudinò,1e Gasen,Twoudinò,94,4.8,1.3,0,59,338728,Bovin,19,6
+154,-73.2584686480072,19.7484467770326,3ème Damé,Nord Ouest,Mole Saint Nicolas,931-03,Môle Saint Nicolas,34.626,4,2,3,100,610,1611,47,Nòdwès,Mòl Sen Nikola,3e Dame,Mòl Sen Nikola,48.2,51.8,0,0,77,259592,Bovin,78,32
+155,-73.3756130272904,19.7803799924474,1ère Cote de Fer,Nord Ouest,Mole Saint Nicolas,931-01,Môle Saint Nicolas,166.6301,51,1,3,0,610,17996,108,Nòdwès,Mòl Sen Nikola,1e Kotdefè,Mòl Sen Nikola,64.6,31.3,4.1,0,67,1234061,Caprin,28,12
+156,-73.2866704750161,19.801752420307,2ème Mare Rouge,Nord Ouest,Mole Saint Nicolas,931-02,Môle Saint Nicolas,30.4647,67,2,3,240,660,11196,368,Nòdwès,Mòl Sen Nikola,2e Ma Wouj,Mòl Sen Nikola,87.9,12.1,0,0,60,387652,Bovin,10,0
+157,-73.702176168379,18.5625391733047,2ème Eaux Basses,Nippes,Grand Boucan,1032-02,Baradères,13.9641,0,3,3,0,90,1863,133,Nip,Gran Boukan,2e Dlo Bas,Baradè,94,5.9,0,0,76,234070,Bovin,100,0
+158,-73.6156606574948,18.5697376506222,1ère Grand Boucan,Nippes,Grand Boucan,1032-01,Baradères,31.2196,0,3,3,0,70,994,32,Nip,Gran Boukan,1e Gran Boukan,Baradè,100,0,0,0,63,482644,Bovin,16,0
+159,-73.8518560487937,18.3720357730898,2ème Champlois,Sud,Camp Perrin,714-02,Cayes,67.6846,88,5,7,100,1150,23185,343,Sid,Kan Peren,2e Chanplwa,Okay,26.7,42.8,29.5,0.9,60,721374,Bovin,53,0
+160,-73.8958038031691,18.3368724368631,3ème Tibi Davezac,Sud,Camp Perrin,714-03,Cayes,32.3049,62,5,7,190,1320,10723,332,Sid,Kan Peren,3e Tibi Davzak,Okay,10.1,47.7,39.1,3.2,63,491523,Bovin,4,1
+161,-73.8436315422621,18.299092337613,1ère Lévy,Sud,Camp Perrin,714-01,Cayes,26.9138,92,4,5,100,350,16220,603,Sid,Kan Peren,1e Levi,Okay,63.2,36.7,0.1,0,47,662204,Bovin,0,0
+162,-72.6986260012806,19.1916150572882,5ème Bocozelle,Artibonite,Saint-Marc,531-05,Saint-Marc,189.9464,78,1,2,0,280,86003,453,Latibonit,Sen Mak,5e Bokozèl,Sen Mak,90.2,9.5,0.3,0,56,1544499,Bovin,48,1
+163,-72.6701193105101,19.0747981709789,6ème Charrette,Artibonite,Saint-Marc,531-06,Saint-Marc,31.9423,97,2,3,0,940,78575,2460,Latibonit,Sen Mak,6e Charèt,Sen Mak,17.1,62.1,20.7,0,52,307616,Bovin,1,1
+164,-73.7815842676131,18.386105908335,3ème Melon,Sud,Maniche,715-03,Cayes,55.6204,77,5,6,60,1270,11155,201,Sid,Manich,3e Melon,Okay,17.5,33.8,47.6,1,77,379741,Bovin,29,2
+165,-72.6193083633004,19.0245004908489,3ème Goyavier,Artibonite,Saint-Marc,531-03,Saint-Marc,47.0162,66,3,3,190,1280,27726,590,Latibonit,Sen Mak,3e Goyavye,Sen Mak,10.7,70.2,19.1,0,62,409649,Bovin,52,40
+166,-72.6120350175092,19.097204024636,4ème Lalouère,Artibonite,Saint-Marc,531-04,Saint-Marc,96.6166,60,2,3,40,760,32981,341,Latibonit,Sen Mak,4e Lalouwè,Sen Mak,44.2,54.3,1.6,0,59,762493,Bovin,57,2
+167,-73.7410670715912,18.3346074472289,1ère Maniche,Sud,Maniche,715-01,Cayes,29.9466,47,4,5,50,340,12277,410,Sid,Manich,1e Manich,Okay,42.4,56.5,1.1,0,50,326714,Bovin,19,0
+168,-72.6760534522577,18.9811704230712,1ère Délugé,Artibonite,Saint-Marc,531-01,Saint-Marc,50.9034,71,2,3,0,1190,26058,512,Latibonit,Sen Mak,1e Delije,Sen Mak,20.5,36.5,43.1,0,50,974352,Bovin,23,0
+169,-73.7214696207657,18.3813619566809,2ème Dory,Sud,Maniche,715-02,Cayes,44.863,47,4,6,40,920,8967,200,Sid,Manich,2e Dori,Okay,18.3,40.6,41.1,0,61,362277,Bovin,23,0
+170,-72.7350621881919,19.0456046280303,2ème Bois Neuf,Artibonite,Saint-Marc,531-02,Saint-Marc,141.429,88,2,3,0,1280,87269,617,Latibonit,Sen Mak,2e Bwa Nèf,Sen Mak,30.8,50.3,18.8,0,59,1593145,Bovin,24,7
+171,-74.1544526107295,18.2876984034408,3ème Bony,Sud,Chardonnières,751-03,Chardonnières,19.3493,65,2,3,0,480,8185,423,Sid,Chadonyè,3e Boni,Chadonyè,35.2,45,19.9,0,61,491610,Bovin,21,0
+172,-74.0738398442868,18.3567751197658,1ère Randel,Sud,Chardonnières,751-01,Chardonnières,51.6241,44,4,6,150,2180,8746,169,Sid,Chadonyè,1e Randèl,Chadonyè,0,26.9,63.4,9.6,75,215835,Bovin,38,1
+173,-74.1127563289644,18.3237434327039,2ème Déjoie,Sud,Chardonnières,751-02,Chardonnières,43.8857,3,2,6,0,2020,5487,125,Sid,Chadonyè,2e Dejwa,Chadonyè,5.3,40.2,48.6,5.9,77,519788,Bovin,51,0
+174,-72.7528719597579,19.913750607631,1ère Rivière des Nègres,Nord Ouest,Saint Louis du Nord,921-01,Saint Louis du Nord,13.5125,75,4,5,0,770,11562,856,Nòdwès,Sen Lwi nan Nò,1e Rivyè Nèg,Sen Lwi nan Nò,16.8,67.5,15.7,0,53,139355,Caprin,35,0
+175,-72.0509370990478,19.5091727931611,5ème Moka-Neuf,Nord Est,Sainte Suzanne,432-05,Trou du Nord,31.4601,0,4,5,310,860,5956,189,Nòdès,Sent Sizàn,5e Mokanèf,Twoudinò,32.1,59.9,8,0,73,173518,Bovin,40,1
+176,-72.0704924910145,18.4670345088345,5ème Mare Roseaux,Ouest,Ganthier,133-05,Croix des Bouquets,78.4106,35,2,5,80,1610,36605,467,Lwès,Gantye,5e Ma Wozo,Kwadèboukè,9.9,37,51.6,1.5,71,715206,Bovin,90,6
+177,-72.0431138828804,19.4609710657918,6ème Fond Bleu,Nord Est,Sainte Suzanne,432-06,Trou du Nord,36.4622,0,4,5,140,860,9652,265,Nòdès,Sent Sizàn,6e Fon Ble,Twoudinò,3.8,84.9,11.3,0,69,206464,Bovin,87,0
+178,-72.0693116014336,19.5378975037916,3ème Côtelette,Nord Est,Sainte Suzanne,432-03,Trou du Nord,21.9254,0,4,5,300,800,3706,169,Nòdès,Sent Sizàn,3e Kotlèt,Twoudinò,35.2,55.3,9.4,0,70,132581,Bovin,42,7
+179,-71.9495495272552,18.4732195117203,3ème Fonds Parisien,Ouest,Ganthier,133-03,Croix des Bouquets,177.4699,68,1,5,20,2590,51596,291,Lwès,Gantye,3e Fon Parizyen,Kwadèboukè,44,32.5,22,1.5,51,1279386,Bovin,17,2
+180,-72.0699311680707,19.5733684458283,4ème Sarazin,Nord Est,Sainte Suzanne,432-04,Trou du Nord,10.7666,47,4,5,200,700,3310,307,Nòdès,Sent Sizàn,4e Sarazen,Twoudinò,38.7,47.7,13.6,0,63,110414,Bovin,100,0
+181,-72.015753598986,18.4664635919627,4ème Pays Pourri,Ouest,Ganthier,133-04,Croix des Bouquets,94.0206,51,2,5,80,1730,30150,321,Lwès,Gantye,4e Peyi Pouri,Kwadèboukè,20.8,31.2,45.3,2.7,61,714174,Bovin,79,20
+182,-72.0983079681592,19.601650581816,1ère Foulon,Nord Est,Sainte Suzanne,432-01,Trou du Nord,14.9685,27,4,4,70,480,3984,266,Nòdès,Sent Sizàn,1e Foulon,Twoudinò,47.6,42.8,9.7,0,54,132698,Bovin,100,0
+183,-71.7630150773377,19.3716775985985,1ère Savanette,Nord Est,Mont Organisé,423-01,Ouanaminte,61.0172,33,4,5,290,1060,18331,300,Nòdès,Montòganize,1e Savanèt,Wanament,75.4,2.4,22.2,0,52,726721,Bovin,36,5
+184,-72.1200182086886,18.534439114368,1ère Galette Chambon,Ouest,Ganthier,133-01,Croix des Bouquets,28.2668,83,2,3,70,240,34598,1224,Lwès,Gantye,1e Galèt Chanbon,Kwadèboukè,93.1,6.9,0,0,52,1032164,Bovin,46,0
+185,-72.0967374961594,19.5628119112162,2ème Bois Blanc,Nord Est,Sainte Suzanne,432-02,Trou du Nord,12.7161,12,4,5,140,470,3042,239,Nòdès,Sent Sizàn,2e Bwa Blan,Twoudinò,57.5,42.5,0,0,66,173555,Bovin,98,0
+186,-71.8167878061911,19.410793784571,2ème Bois Poux,Nord Est,Mont Organisé,423-02,Ouanaminte,41.3918,36,4,5,250,1020,6785,164,Nòdès,Montòganize,2e Bwa Pou,Wanament,59.1,1.3,39.7,0,72,598845,Bovin,59,5
+187,-72.0395015717069,18.5724238716233,2ème Balan,Ouest,Ganthier,133-02,Croix des Bouquets,113.9405,79,1,2,20,160,31267,274,Lwès,Gantye,2e Balan,Kwadèboukè,99.5,0.5,0,0,45,1120516,Bovin,33,5
+188,-72.3168380894701,18.8458409628923,4ème Montagne Terrible,Centre,Saut-d'Eau,622-04,Mirebalais,29.7894,31,4,5,560,1170,8154,274,Sant,So Dlo,4e Montay Terib,Mibalè,14.4,59.5,26.1,0,73,516806,Bovin,99,0
+189,-72.2138283384685,18.8554271285008,2ème La Selle,Centre,Saut-d'Eau,622-02,Mirebalais,60.174,51,5,5,80,1060,13791,229,Sant,So Dlo,2e Lasèl,Mibalè,48.5,41.8,9.6,0,60,442699,Bovin,77,0
+190,-72.2624377197212,18.818875001356,3ème Coupe Mardi Gras,Centre,Saut-d'Eau,622-03,Mirebalais,35.6276,44,4,5,290,1060,10126,284,Sant,So Dlo,3e Koup Madigra,Mibalè,36.8,44.6,18.6,0,61,376399,Bovin,23,0
+191,-72.1960441360436,18.7985306718101,1ère Rivière Canot,Centre,Saut-d'Eau,622-01,Mirebalais,45.9971,57,4,5,120,590,18578,404,Sant,So Dlo,1e Rivyè Kano,Mibalè,67.5,32.5,0,0,59,579746,Bovin,45,0
+192,-72.4155336849736,18.4075450044529,12ème Malanga,Ouest,Carrefour,113-12,Port-au-Prince,21.689,37,4,5,490,1530,6826,315,Lwès,Kafou,12e Malanga,Pòtoprens,0,24,73,3.1,72,162915,Bovin,14,0
+193,-72.4508796558021,18.4977365266943,13ème Corail Thor,Ouest,Carrefour,113-13,Port-au-Prince,5.6028,91,4,4,230,590,3500,625,Lwès,Kafou,13e Koray Tò,Pòtoprens,33.9,49.6,16.6,0,69,160613,Bovin,88,0
+194,-72.3973874182175,18.527986435414,10ème Thor,Ouest,Carrefour,113-10,Port-au-Prince,12.305,100,3,4,0,380,160428,13038,Lwès,Kafou,10e Tò,Pòtoprens,60.5,39.5,0,0,33,61154,Caprin,0,0
+195,-74.422944627703,18.4644123879964,3e Ilet Pierre à Joseph,Grande Anse,Anse-d'Ainault,821-03,Anse D'Ainault,25.6739,41,3,5,0,580,7063,275,Grandans,Ansdeno,3e Zile Pyèrajosèf,Ansdeno,30.1,48.9,20.9,0,62,650195,Bovin,3,0
+196,-72.7090925388342,19.829148949829,6ème Chamoise,Nord Ouest,Saint Louis du Nord,921-06,Saint Louis du Nord,20.653,23,5,5,100,910,6357,308,Nòdwès,Sen Lwi nan Nò,6e Chamwaz,Sen Lwi nan Nò,0,47.8,52.2,0,70,225486,Bovin,92,0
+197,-72.4322958052324,18.5288219255022,11ème Rivière Froide,Ouest,Carrefour,113-11,Port-au-Prince,20.4958,99,4,4,0,620,146385,7142,Lwès,Kafou,11e Rivyè Fwad,Pòtoprens,29.1,69.2,1.7,0,39,236823,Bovin,0,0
+198,-74.5636959487931,18.4310468675554,4e Mandou / La Navase,Grande Anse,Anse-d'Ainault,821-04,Anse D'Ainault,24.1234,40,3,5,0,550,2831,117,Grandans,Ansdeno,4e Mandou / Lanavaz,Ansdeno,12.2,70.8,16.9,0,59,244929,Bovin,3,0
+199,-74.4262514153518,18.4895071444356,1e Grandoit,Grande Anse,Anse-d'Ainault,821-01,Anse D'Ainault,13.1999,82,3,5,0,350,10192,772,Grandans,Ansdeno,1e Grandwa,Ansdeno,21.5,78.5,0,0,59,371586,Bovin,8,0
+200,-72.6924489861301,19.8753004757613,4ème Rivière de Barre,Nord Ouest,Saint Louis du Nord,921-04,Saint Louis du Nord,21.0002,79,4,5,0,680,13605,648,Nòdwès,Sen Lwi nan Nò,4e Rivyè Ba,Sen Lwi nan Nò,14.8,41.6,43.6,0,61,450884,Bovin,10,0
+201,-74.3542736709408,18.4592970338974,2ème Boudon,Grande Anse,Anse-d'Ainault,821-02,Anse D'Ainault,39.4315,51,5,6,110,750,5817,148,Grandans,Ansdeno,2e Boudon,Ansdeno,0,59.4,40.6,0,60,245653,Bovin,31,2
+202,-72.6730975564761,19.8961883308944,5ème Bonneau,Nord Ouest,Saint Louis du Nord,921-05,Saint Louis du Nord,20.5072,79,4,5,0,700,16241,792,Nòdwès,Sen Lwi nan Nò,5e Bono,Sen Lwi nan Nò,22.8,56.1,21.1,0,49,539910,Bovin,1,0
+203,-72.7312590715391,19.9119638321362,2ème Derouvray,Nord Ouest,Saint Louis du Nord,921-02,Saint Louis du Nord,13.0978,92,4,5,0,910,24112,1841,Nòdwès,Sen Lwi nan Nò,2e Dewouvre,Sen Lwi nan Nò,34.4,54.7,10.9,0,45,89984,Bovin,6,0
+204,-72.0049735326546,18.9934706105116,1ère Cabral,Centre,Thomonde,613-01,Hinche,115.8584,49,4,5,230,800,28323,244,Sant,Tomond,1e Kabral,Ench,63.8,36.2,0,0,59,1398286,Bovin,76,2
+205,-72.7224660451603,19.8782157747363,3ème des Granges,Nord Ouest,Saint Louis du Nord,921-03,Saint Louis du Nord,24.9512,76,4,5,0,900,23124,927,Nòdwès,Sen Lwi nan Nò,3e Degranj,Sen Lwi nan Nò,6.7,48.3,45.1,0,51,229193,Bovin,30,0
+206,-74.0574990081252,18.547663438507,3e Grand Vincent,Grande Anse,Roseaux,832-03,Corail,30.9268,7,4,6,70,570,6440,208,Grandans,Wozo,3e Gran Vensan,Koray,15.4,74.9,9.1,0.6,63,524303,Caprin,69,0
+207,-74.0321172127782,18.581393405514,4e les Gommiers,Grande Anse,Roseaux,832-04,Corail,39.7964,0,3,5,0,420,6095,153,Grandans,Wozo,4e Lègomye,Koray,31.2,52.5,16.3,0,61,335610,Bovin,54,0
+208,-73.9855483795496,18.5528979831932,1ere Carrefour Charles,Grande Anse,Roseaux,832-01,Corail,49.0325,0,3,5,0,490,6378,130,Grandans,Wozo,1e Kafou Chal,Koray,26.2,60.1,13.2,0.4,60,276787,Bovin,37,1
+209,-74.0674134215445,18.4571811243129,2e Fond Cochon,Grande Anse,Roseaux,832-02,Corail,93.906,27,5,7,120,2110,12715,135,Grandans,Wozo,2e Kochon,Koray,1.6,20.5,58,20,77,639866,Bovin,68,0
+210,-72.5981437022431,18.2123869120413,11ème La Montagne,Sud-Est,Jacmel,211-11,Jacmel,67.807,66,3,4,0,650,23046,340,Sidès,Jakmèl,11e Lamontay,Jakmèl,27.4,68.3,4.3,0,55,617116,Bovin,50,0
+211,-72.5913422943111,18.2597981982227,10ème La vanneau,Sud-Est,Jacmel,211-10,Jacmel,36.3185,45,3,4,0,670,15392,424,Sidès,Jakmèl,10e Lavano,Jakmèl,22.6,68,9.4,0,50,266308,Bovin,9,0
+212,-73.3521663872551,18.3899898379645,4ème Morisseau,Nippes,L'Asile,1023-04,Anse à Veau,21.0316,5,3,4,60,420,3253,155,Nip,Lazil,4e Moriso,Ansavo,22.3,76.2,1.5,0,53,291559,Bovin,100,0
+213,-73.4921061931174,18.3569257608252,2ème Changeux,Nippes,L'Asile,1023-02,Anse à Veau,56.1345,68,4,5,160,1360,9575,171,Nip,Lazil,2e Chanje,Ansavo,12.3,25.3,58.8,3.6,75,355667,Bovin,7,0
+214,-73.432099571657,18.4006566532113,3ème Tournade,Nippes,L'Asile,1023-03,Anse à Veau,55.1254,58,3,4,90,580,17909,325,Nip,Lazil,3e Tounad,Ansavo,38.7,55,6.3,0,51,769623,Bovin,29,0
+215,-73.8332094823365,18.5301260264342,1ere Bernagousse,Grande Anse,Pestel,834-01,Corail,36.2224,7,3,4,0,480,5503,152,Grandans,Pestèl,1e Bènagous,Koray,23.7,71.8,4.5,0,58,763254,Bovin,60,0
+216,-73.3885736550504,18.3585222405806,1ère l'Asile,Nippes,L'Asile,1023-01,Anse à Veau,24.9155,80,4,5,130,960,11032,443,Nip,Lazil,1e Lazil,Ansavo,40.7,36.2,23.1,0,53,414782,Bovin,63,0
+217,-73.7802541136744,18.5174668739005,2e Espere,Grande Anse,Pestel,834-02,Corail,37.2804,27,3,4,0,480,5050,135,Grandans,Pestèl,2e Espè,Koray,20.9,78.4,0.7,0,60,992023,Bovin,15,0
+218,-71.9107327743741,18.9873277129719,2ème Tierra Muscady,Centre,Thomonde,613-02,Hinche,73.2398,0,3,4,180,400,18933,259,Sant,Tomond,2e Tyera Mouskadi,Ench,95.7,4.3,0,0,58,932743,Bovin,67,0
+219,-72.0658703625547,19.0252559118858,3ème Baille Tourrible,Centre,Thomonde,613-03,Hinche,63.4815,18,4,5,370,970,9534,150,Sant,Tomond,3e Baytourib,Ench,9.4,84.9,5.7,0,73,1093515,Bovin,92,33
+220,-72.5763214773585,18.3264293074654,8ème Bas Coq Chante,Sud-Est,Jacmel,211-08,Jacmel,23.1723,36,3,4,90,840,8859,382,Sidès,Jakmèl,8e Ba Kok Chant,Jakmèl,0,89.2,10.8,0,47,344536,Bovin,98,0
+221,-72.6059083153282,18.3059920799177,9ème Haut Coq Chante,Sud-Est,Jacmel,211-09,Jacmel,31.8177,1,3,4,40,720,6471,203,Sidès,Jakmèl,9e Wo Kòkchant,Jakmèl,7.6,82.8,9.5,0,47,309398,Caprin,69,0
+222,-72.5323296578199,18.2983390440569,6ème Montagne La Voute,Sud-Est,Jacmel,211-06,Jacmel,49.8794,74,3,4,0,690,39987,802,Sidès,Jakmèl,6e Montay Lavout,Jakmèl,33.6,57.9,8.5,0,46,481700,Bovin,4,0
+223,-72.499348561036,18.3754248713066,7ème Grande Rivière de Jacmel,Sud-Est,Jacmel,211-07,Jacmel,44.8371,26,3,5,140,1250,11268,251,Sidès,Jakmèl,7e Gran Rivyè Jakmèl,Jakmèl,0,40.7,58.3,1,72,410836,Bovin,98,0
+224,-72.4019851078289,18.3566089054235,4ème La Gosseline,Sud-Est,Jacmel,211-04,Jacmel,39.0419,0,4,5,170,1940,6532,167,Sidès,Jakmèl,4e Lagoslin,Jakmèl,2.3,42.4,52.6,2.8,84,336874,Bovin,94,17
+225,-72.455929474336,18.357275462795,5ème Marbial,Sud-Est,Jacmel,211-05,Jacmel,16.0384,0,4,5,150,1010,3423,213,Sidès,Jakmèl,5e Mabyal,Jakmèl,0,62,37.9,0,80,254260,Bovin,63,0
+226,-72.4208773616087,18.327043546143,2ème Fond Melon,Sud-Est,Jacmel,211-02,Jacmel,13.2174,0,4,5,190,1190,2960,224,Sidès,Jakmèl,2e Fon Melon,Jakmèl,0,59,41,0,80,158074,Bovin,91,10
+227,-72.4762028636238,18.3262929163544,3ème Cochon Gras,Sud-Est,Jacmel,211-03,Jacmel,45.4912,11,3,4,100,890,12416,273,Sidès,Jakmèl,3e Kochon Gra,Jakmèl,0.5,58.1,41.4,0,63,536728,Bovin,40,0
+228,-72.489013892265,18.255157784934,1ère Bas Cap Rouge,Sud-Est,Jacmel,211-01,Jacmel,74.3465,86,3,4,0,720,78750,1059,Sidès,Jakmèl,1e Ba Kap Wouj,Jakmèl,50.7,44.2,5.1,0,52,1044691,Bovin,12,0
+229,-72.0219463642379,19.3508004594699,1ère La Victoire,Nord,La Victoire,345-01,Saint Raphaël,30.3469,64,3,4,350,790,8329,274,Nò,Laviktwa,1e Laviktwa,Sen Rafayèl,75.6,24,0.4,0,56,512517,Bovin,25,0
+230,-73.9042458530947,18.4220301433489,5e Duchity,Grande Anse,Pestel,834-05,Corail,66.1266,60,4,7,360,1240,13914,210,Grandans,Pestèl,5e Dichiti,Koray,4.9,76.8,15.6,2.7,64,855008,Bovin,16,3
+231,-73.7504996060075,18.6132068637002,6ème Les Cayemites,Grande Anse,Pestel,834-06,Corail,52.0732,48,3,3,0,230,6229,120,Grandans,Pestèl,6e Kayimit,Koray,83.4,16.6,0,0,58,515101,Bovin,100,0
+232,-73.7744578109224,18.4744821180559,3e Jn Bellune,Grande Anse,Pestel,834-03,Corail,19.6313,2,4,5,230,1070,4360,222,Grandans,Pestèl,3e Jan Belin,Koray,13.6,70.9,15.5,0,56,1027289,Bovin,12,0
+233,-73.8347458823662,18.4558915245061,4e Tozia,Grande Anse,Pestel,834-04,Corail,83.0378,39,4,6,140,1180,12391,149,Grandans,Pestèl,4e Tozya,Koray,15.8,62.5,21.7,0,76,664634,Bovin,33,0
+234,-73.2583475968032,19.6666129886946,1ère Citerne Rémy,Nord Ouest,Baie de Henne,932-01,Môle Saint Nicolas,55.7079,0,1,3,0,490,1462,26,Nòdwès,Bedeyèn,1e Sitèn Remi,Mòl Sen Nikola,52,43.4,4.6,0,63,260878,Caprin,68,8
+235,-72.0029498899908,18.2644056489999,6ème Pichon,Sud-Est,Belle Anse,231-06,Belle Anse,53.9357,31,2,5,0,1860,7660,142,Sidès,Bèl Ans,6e Pichon,Bèl Ans,33.5,40.1,26.4,0,62,866154,Bovin,26,0
+236,-71.957680765572,18.255320468612,7ème Mapou,Sud-Est,Belle Anse,231-07,Belle Anse,66.2147,3,2,5,0,1910,8586,130,Sidès,Bèl Ans,7e Mapou,Bèl Ans,23,55.1,19.6,2.3,59,616478,Bovin,32,2
+237,-72.0990177785044,18.2876994399346,4ème Corail Lamothe,Sud-Est,Belle Anse,231-04,Belle Anse,51.6435,43,2,5,0,1960,6476,125,Sidès,Bèl Ans,4e Koray Lamòt,Bèl Ans,6.8,80.2,12.9,0.1,63,1382235,Bovin,36,0
+238,-72.0492030062264,18.2808001210644,5ème Bel Air,Sud-Est,Belle Anse,231-05,Belle Anse,55.6734,59,2,5,0,1930,10203,183,Sidès,Bèl Ans,5e Bèlè,Bèl Ans,7,59.9,30.8,2.2,61,780562,Bovin,13,1
+239,-72.1669003001352,18.2950320482033,2ème Mabriole,Sud-Est,Belle Anse,231-02,Belle Anse,60.0253,0,2,5,30,2150,10141,169,Sidès,Bèl Ans,2e Mabriyòl,Bèl Ans,3.5,85.4,9.7,1.4,61,729092,Bovin,36,0
+240,-72.1314504485857,18.2847335650722,3èmme Calumette,Sud-Est,Belle Anse,231-03,Belle Anse,28.3193,0,2,5,0,1960,4180,148,Sidès,Bèl Ans,3e Kalimèt,Bèl Ans,5.6,83.4,11,0,71,532035,Bovin,56,0
+241,-72.2075247589645,18.2844224525088,1ère Bais d'Orange,Sud-Est,Belle Anse,231-01,Belle Anse,67.9621,14,2,5,0,2250,10074,148,Sidès,Bèl Ans,1e Bèdoranj,Bèl Ans,17.9,75,5.5,1.6,63,564742,Bovin,57,0
+242,-71.7944631149523,19.0605012696937,2ème Lociane,Centre,Thomassique,642-02,Cerca La Source,121.1609,40,3,3,190,380,34289,283,Sant,Tomasik,2e Losyàn,Sèkalasous,100,0,0,0,56,2979114,Bovin,85,0
+243,-71.8586259598824,19.092303503482,1ère Matelgate,Centre,Thomassique,642-01,Cerca La Source,116.4843,23,3,3,190,880,22248,191,Sant,Tomasik,1e Matèlgat,Sèkalasous,91.7,5.9,2.4,0,58,1862804,Bovin,100,0
+244,-73.1573510644014,19.6735215131712,4ème Estère Dérée,Nord Ouest,Baie de Henne,932-04,Môle Saint Nicolas,67.3315,3,1,2,0,430,3037,45,Nòdwès,Bedeyèn,4e Lestè Dere,Mòl Sen Nikola,63.1,36.8,0.1,0,79,164533,Caprin,33,0
+245,-72.8403402823754,20.0566768937375,2ème Mare Rouge,Nord Ouest,La Tortue,912-02,Port-de-Paix,115.1029,77,4,4,0,0,40435,351,Nòdwès,Latòti,2e Ma Wouj,Pòdpè,,,,,57,1425400,Bovin,13,8
+246,-73.2135380672723,19.7100454985357,2ème Dos d'Ane,Nord Ouest,Baie de Henne,932-02,Môle Saint Nicolas,45.0577,81,1,3,0,760,7886,175,Nòdwès,Bedeyèn,2e Dodàn,Mòl Sen Nikola,41.3,56.7,1.9,0,64,119275,Caprin,8,1
+247,-72.6966796165197,20.023533786139,1ère Pointe des Oiseaux,Nord Ouest,La Tortue,912-01,Port-de-Paix,64.0148,90,4,4,0,80,23808,372,Nòdwès,Latòti,1e Pwent Zwazo,Pòdpè,63.6,36.4,0,0,62,2576894,Bovin,4,0
+248,-73.175147149776,19.7476030869209,3ème Réserve,Nord Ouest,Baie de Henne,932-03,Môle Saint Nicolas,36.1915,63,2,3,210,890,13374,370,Nòdwès,Bedeyèn,3e Rezèv,Mòl Sen Nikola,34.6,55.6,9.8,0,58,495432,Bovin,45,1
+249,-72.2541228377162,18.4848173054596,4ème Bellevue la Montagne,Ouest,Pétion-Ville,114-04,Port-au-Prince,33.6993,98,3,4,250,1330,49820,1478,Lwès,Petyonvil,4e Bèlvi Lamontay,Pòtoprens,1.5,89.3,9.2,0,36,1508036,Bovin,2,0
+250,-72.8750339013027,18.7451706292781,5ème Pickmy,Ouest,Anse-à-Galet,151-05,La Gonave,25.3759,2,2,3,0,520,4092,161,Lwès,Ansagalè,5e Pikmi,Lagonav,31.1,61.4,7.4,0,76,375537,Bovin,95,0
+251,-72.2494363910829,18.5218463558781,5ème Bellevue Chardonnière,Ouest,Pétion-Ville,114-05,Port-au-Prince,32.2569,100,3,4,100,560,194285,6023,Lwès,Petyonvil,5e Bèlvi Chadonyè,Pòtoprens,73.4,24.9,1.6,0,22,1786657,Bovin,0,0
+252,-72.1975581191481,18.4577663049304,2ème Aux Cadets,Ouest,Pétion-Ville,114-02,Port-au-Prince,45.9974,4,3,4,170,1280,10676,232,Lwès,Petyonvil,2e Okadè,Pòtoprens,0,50.6,47.9,1.5,67,224373,Bovin,91,0
+253,-72.9710134061791,18.8050266590734,3ème Grande Source,Ouest,Anse-à-Galet,151-03,La Gonave,44.9393,67,2,3,0,770,14758,328,Lwès,Ansagalè,3e Gran Sous,Lagonav,33.9,53.5,12.6,0,59,436471,Bovin,16,0
+254,-72.3274259754541,18.48731486588,3ème Etang du Jong,Ouest,Pétion-Ville,114-03,Port-au-Prince,32.8823,97,3,5,220,1620,102373,3113,Lwès,Petyonvil,3e Letan Jon,Pòtoprens,0.9,60.8,38.3,0,34,709871,Bovin,4,0
+255,-73.0467393162264,18.8705087837957,4ème Grand Lagon,Ouest,Anse-à-Galet,151-04,La Gonave,134.1368,45,2,3,0,510,28251,211,Lwès,Ansagalè,4e Gran Lagon,Lagonav,89.9,10.1,0,0,65,4535358,Bovin,61,1
+256,-72.8832267915986,18.783266432992,1ère Palma,Ouest,Anse-à-Galet,151-01,La Gonave,60.9682,56,2,3,0,750,25291,415,Lwès,Ansagalè,1e Palma,Lagonav,49.1,37.9,13,0,62,1277083,Bovin,29,0
+257,-72.3147260679607,18.4667387824052,1ère Montagne Noire,Ouest,Pétion-Ville,114-01,Port-au-Prince,12.3147,81,4,5,770,1780,22336,1814,Lwès,Petyonvil,1e Montay Nwa,Pòtoprens,0,43.9,56.1,0,40,377997,Bovin,4,0
+258,-72.9204495393459,18.811574708199,2ème Petite Source,Ouest,Anse-à-Galet,151-02,La Gonave,69.1252,64,2,3,0,760,29522,427,Lwès,Ansagalè,2e Ti Sous,Lagonav,39.6,54.1,6.3,0,58,1023659,Bovin,19,0
+259,-74.237529466899,18.6307624594059,1ère de Désormeau,Grande Anse,Bonbon,813-01,Jérémie,34.5425,43,3,5,0,720,8602,249,Grandans,Bonbon,1e Dezòmo,Jeremi,11.8,76.6,11.6,0,59,396672,Bovin,28,0
+260,-72.3586587101841,18.518091681354,3ème Martissant,Ouest,Port-au-Prince,111-03,Port-au-Prince,8.9629,99,3,4,0,920,160264,17881,Lwès,Pòtoprens,3e Matisan,Pòtoprens,32.1,50.5,17.5,0,35,511787,Bovin,0,0
+261,-72.3270619471672,18.5358253755555,1ère Turgeau,Ouest,Port-au-Prince,111-01,Port-au-Prince,18.3719,100,3,4,0,930,263810,14359,Lwès,Pòtoprens,1e Tijo,Pòtoprens,69.4,19.5,11.1,0,29,443190,Caprin,0,0
+262,-72.336896608802,18.5125458670076,2ème Morne l'Hopital,Ouest,Port-au-Prince,111-02,Port-au-Prince,6.9143,99,3,4,80,990,50746,7339,Lwès,Pòtoprens,2e Mòn Lopital,Pòtoprens,1,26.4,72.5,0,42,231682,Caprin,0,0
+263,-73.8927235902194,18.1415404997924,3ème Arniquet,Sud,Arniquet,723-03,Port-Salut,8.9355,80,5,5,30,300,5580,624,Sid,Anikè,3e Anikè,Pò Sali,22.7,77.3,0,0,69,328821,Bovin,1,0
+264,-73.9594917597168,18.4363239268153,1ère Beaumont,Grande Anse,Beaumont,833-01,Corail,94.5008,47,4,7,350,1910,20493,217,Grandans,Bomon,1e Bomon,Koray,7.8,58.2,25,8.9,61,1419327,Bovin,27,0
+265,-74.4247845801635,18.5216029585803,1ere Bariadelle,Grande Anse,Dame-Marie,822-01,Anse D'Ainault,23.7441,44,3,5,0,300,5076,214,Grandans,Dam Mari,1e Baryadèl,Ansdeno,36.9,58.5,4.5,0,64,319161,Bovin,9,0
+266,-71.8057928123717,18.7429817627924,2ème La Haye,Centre,Savanette,633-02,Lascahobas,114.2282,41,4,5,400,1950,35607,312,Sant,Savanèt,2e Layay,Laskawobas,5,57,36.8,1.3,61,659117,Bovin,59,1
+267,-71.919260647871,18.7531424602671,1ère Colombier,Centre,Savanette,633-01,Lascahobas,52.3552,0,5,5,220,1390,10409,199,Sant,Savanèt,1e Kolonbye,Laskawobas,1.8,40.2,57.3,0.7,62,681954,Bovin,98,0
+268,-74.3984138090358,18.6090669349033,4e Petite Rivière,Grande Anse,Dame-Marie,822-04,Anse D'Ainault,21.3903,6,3,4,0,150,4576,214,Grandans,Dam Mari,4e Ti Rivyè,Ansdeno,83.4,16.6,0,0,75,264520,Bovin,100,0
+269,-74.3754566363268,18.5686504888961,5e Baliverne,Grande Anse,Dame-Marie,822-05,Anse D'Ainault,31.1058,47,3,5,0,660,6805,219,Grandans,Dam Mari,5e Balivèn,Ansdeno,26,69.5,4.5,0,67,292782,Bovin,38,0
+270,-74.0072701345525,18.5080769980902,2ème Chardonette,Grande Anse,Beaumont,833-02,Corail,13.4844,0,4,5,170,670,2342,174,Grandans,Bomon,2e Chadonèt,Koray,9.6,73.7,16.7,0,72,108675,Bovin,53,0
+271,-74.3850641547103,18.5154292311969,2eme  Dallier,Grande Anse,Dame-Marie,822-02,Anse D'Ainault,7.6863,1,4,5,50,500,1750,228,Grandans,Dam Mari,2e Dalye,Ansdeno,0,82.4,17.6,0,73,100161,Bovin,31,0
+272,-74.0117616668659,18.4469371326848,3ème Mouline,Grande Anse,Beaumont,833-03,Corail,59.6565,0,4,7,230,2330,8066,135,Grandans,Bomon,3e Moulin,Koray,2.9,36.5,48,12.6,62,1572727,Bovin,94,0
+273,-74.3946700636144,18.5433724046354,3e Désormeau,Grande Anse,Dame-Marie,822-03,Anse D'Ainault,16.991,85,3,4,0,490,10779,634,Grandans,Dam Mari,3e Dezòmo,Ansdeno,17.1,57.9,25,0,64,300539,Bovin,3,0
+274,-71.9396172793903,19.2603712767049,Rang,Centre,Cerca Carvajal,614-01,Hinche,156.0806,30,3,4,390,1030,19932,128,Sant,Sèkakavajal,Rang,Ench,51.3,29.3,19.4,0,64,1182874,Bovin,47,1
+275,-72.9886006202497,18.2548502678487,6ème Jamais Vu,Sud-Est,Cote-de-Fer,222-06,Bainet,52.2723,16,3,5,0,750,10548,202,Sidès,Kotdefè,6e Jamèvi,Benè,13.1,76.1,10.9,0,58,586324,Bovin,13,0
+276,-72.9168340633992,18.27034430405,4ème Amazone,Sud-Est,Cote-de-Fer,222-04,Bainet,12.082,0,4,5,190,780,2914,241,Sidès,Kotdefè,4e Amazòn,Benè,1.9,83.7,14.4,0,66,234571,Bovin,6,0
+277,-72.9430000894047,18.2732553180221,5ème Boucan Bélier,Sud-Est,Cote-de-Fer,222-05,Bainet,11.4453,11,4,4,230,760,2723,238,Sidès,Kotdefè,5e Boukan Belye,Benè,10,67.5,22.5,0,66,203471,Bovin,0,0
+278,-72.9009685818922,18.1972226835704,2ème La Biche,Sud-Est,Cote-de-Fer,222-02,Bainet,25.4377,27,3,4,0,510,6491,255,Sidès,Kotdefè,2e Labich,Benè,16.2,83.8,0,0,71,196972,Bovin,7,0
+279,-72.900679395556,18.2667309526689,3ème Bras Gauche,Sud-Est,Cote-de-Fer,222-03,Bainet,7.1422,0,4,5,180,730,1879,263,Sidès,Kotdefè,3e Bra Gòch,Benè,7.6,69.1,23.4,0,65,114576,Bovin,37,0
+280,-72.7025956993968,19.2586366852065,1ère Poteneau,Artibonite,Grande Saline,543-01,Dessalines,51.9965,94,1,2,0,10,29404,565,Latibonit,Gran Salin,1e Potno,Desalin,100,0,0,0,56,295152,Bovin,50,0
+281,-72.94778647085,18.208715308459,1ère Gris-gris,Sud-Est,Cote-de-Fer,222-01,Bainet,67.2524,19,3,4,0,630,15134,225,Sidès,Kotdefè,1e Grigri,Benè,24.3,75.7,0,0,60,645400,Bovin,30,0
+282,-73.913321208851,18.2309137720238,1ère Fond Palmiste,Sud,Chantal,713-01,Cayes,24.7942,57,5,5,60,470,10898,440,Sid,Chantal,1e Fon Palmis,Okay,29.1,64.7,6.2,0,56,653405,Bovin,22,0
+283,-72.0300679599425,18.360299614193,7ème Belle Fontaine,Ouest,Croix-des-Bouquets,131-07,Croix des Bouquets,113.8384,13,4,5,680,2660,17996,158,Lwès,Kwadèboukè,7e Bèl Fonten,Kwadèboukè,7.7,45.3,40.5,6.5,70,1041660,Bovin,100,8
+284,-73.9265383468677,18.2083763643194,2ème Melonière,Sud,Chantal,713-02,Cayes,32.2115,43,5,5,40,740,13575,421,Sid,Chantal,2e Melonyè,Okay,27.6,52.4,20,0,59,1045127,Bovin,42,0
+285,-72.1327718977033,18.4490146994546,8ème Belle Fontaine,Ouest,Croix-des-Bouquets,131-08,Croix des Bouquets,111.6881,19,2,5,110,1690,26861,241,Lwès,Kwadèboukè,8e Bèl Fontèn,Kwadèboukè,5.2,37.7,50,7.1,72,279671,Bovin,89,34
+286,-72.1891771789702,18.5932757431175,5ème Petit Bois,Ouest,Croix-des-Bouquets,131-05,Croix des Bouquets,42.8501,98,2,2,30,80,72300,1687,Lwès,Kwadèboukè,5e Ti Bwa,Kwadèboukè,100,0,0,0,44,2055466,Bovin,0,0
+287,-72.1559962263508,18.3764486438236,6ème Belle Fontaine,Ouest,Croix-des-Bouquets,131-06,Croix des Bouquets,75.2488,38,4,5,420,2140,19613,261,Lwès,Kwadèboukè,6e Bèl Fontèn,Kwadèboukè,2.1,28.6,57.3,11.9,73,650072,Bovin,100,22
+288,-72.2136476069491,18.5463107324619,3ème Petit Bois,Ouest,Croix-des-Bouquets,131-03,Croix des Bouquets,26.0479,99,2,3,30,210,77921,2991,Lwès,Kwadèboukè,3e Ti Bwa,Kwadèboukè,97.7,2.3,0.1,0,38,644670,Bovin,0,1
+289,-72.1738976134941,18.547135592837,4ème Petit Bois,Ouest,Croix-des-Bouquets,131-04,Croix des Bouquets,21.7919,96,2,3,60,130,35509,1629,Lwès,Kwadèboukè,4e Ti Bwa,Kwadèboukè,100,0,0,0,46,543755,Bovin,0,10
+290,-71.8707770732833,18.651872211007,4ème Boucan Bois Pin,Ouest,Cornillon / Grand-Bois,134-04,Croix des Bouquets,32.0196,64,3,4,770,1320,10424,326,Lwès,Kòniyon / Granbwa,4e Boukan Bwapen,Kwadèboukè,23.5,67.1,9.4,0,59,1421590,Bovin,39,0
+291,-71.9378940679313,18.7173012051663,5ème Génipailler,Ouest,Cornillon / Grand-Bois,134-05,Croix des Bouquets,43.7883,5,4,5,310,1440,9276,212,Lwès,Kòniyon / Granbwa,5e Jenipaye,Kwadèboukè,0.2,36.4,61.5,1.9,73,771904,Bovin,100,0
+292,-72.3052982012852,18.634614438257,1ère Varreux,Ouest,Croix-des-Bouquets,131-01,Croix des Bouquets,41.4974,98,2,3,0,30,93750,2259,Lwès,Kwadèboukè,1e Vare,Kwadèboukè,100,0,0,0,45,399111,Bovin,0,0
+293,-71.9433418195439,18.6787256028939,2ème Plaine Céleste,Ouest,Cornillon / Grand-Bois,134-02,Croix des Bouquets,39.0713,22,3,4,570,1270,10043,257,Lwès,Kòniyon / Granbwa,2e Plenn Selès,Kwadèboukè,14.8,57.6,26.7,0.8,62,439824,Bovin,38,0
+294,-71.8470717283979,18.6824183196046,3ème Boucan Bois Pin,Ouest,Cornillon / Grand-Bois,134-03,Croix des Bouquets,51.8372,11,3,5,800,1840,20359,393,Lwès,Kòniyon / Granbwa,3e Boukan Bwapen,Kwadèboukè,4,48.1,47.9,0,71,1138440,Bovin,80,4
+295,-72.0040903436129,18.6738072746803,1ère Plaine Céleste,Ouest,Cornillon / Grand-Bois,134-01,Croix des Bouquets,57.6027,0,2,4,200,1100,8911,155,Lwès,Kòniyon / Granbwa,1e Plenn Selès,Kwadèboukè,14.1,52.5,33.3,0,64,402478,Bovin,73,0
+296,-73.1870679287246,18.3750699225266,3ème Pemerle,Nippes,Fonds des Nègres,1013-03,Miragoâne,23.97,53,3,4,230,820,7814,326,Nip,Fondènèg,3e Pemèl,Miragwàn,28.6,59.7,11.8,0,56,315838,Bovin,56,0
+297,-73.2804084177349,18.3877427121245,4ème Cocoyers,Nippes,Fonds des Nègres,1013-04,Miragoâne,14.8159,66,3,4,170,620,5426,366,Nip,Fondènèg,4e Kokoye,Miragwàn,41,52.6,6.4,0,71,326730,Bovin,20,0
+298,-71.7727562804309,19.4331260995434,5ème Gens de Nantes,Nord Est,Ouanaminthe,421-05,Ouanaminte,20.6892,58,4,5,140,660,5482,265,Nòdès,Wanament,5e Jandenant,Wanament,55.9,16.3,27.8,0,65,756204,Bovin,16,0
+299,-73.3121833762762,18.3870594090718,1ère Bouzi,Nippes,Fonds des Nègres,1013-01,Miragoâne,20.9085,64,3,4,120,490,5946,284,Nip,Fondènèg,1e Bouzi,Miragwàn,44.5,45.4,10,0,54,407225,Bovin,21,0
+300,-72.836958141541,18.3924217932592,12ème des Fouques,Ouest,Petit-Goâve,122-12,Léogâne,36.2166,50,3,5,0,1320,21574,596,Lwès,Tigwav,12e Dèfouk,Leyogàn,14.9,54.9,30.2,0,49,758559,Bovin,26,0
+301,-73.2424476381938,18.3795700514966,2ème Fonds des Nègres,Nippes,Fonds des Nègres,1013-02,Miragoâne,26.0757,82,3,4,250,940,15726,603,Nip,Fondènèg,2e Fondènèg,Miragwàn,49.5,35.3,15.2,0,57,476146,Bovin,26,0
+302,-71.7369708581217,19.4859616652962,3ème Savane Longue,Nord Est,Ouanaminthe,421-03,Ouanaminte,46.7298,53,3,4,40,390,14414,308,Nòdès,Wanament,3e Savann Long,Wanament,94.2,4.1,1.6,0,58,399206,Bovin,39,0
+303,-71.7777779080854,19.4925118852362,4ème Savanne Au Lait,Nord Est,Ouanaminthe,421-04,Ouanaminte,34.0534,28,3,4,40,520,5426,159,Nòdès,Wanament,4e Savann Olè,Wanament,66.5,13.5,20,0,64,292558,Bovin,19,0
+304,-72.8513427156883,18.3173037522461,10ème des Palmes,Ouest,Petit-Goâve,122-10,Léogâne,20.363,17,4,5,370,1230,9498,466,Lwès,Tigwav,10e Palm,Leyogàn,0.3,64.8,34.9,0,61,415311,Bovin,39,0
+305,-71.7680477003928,19.557665866965,1ère Haut Maribahoux,Nord Est,Ouanaminthe,421-01,Ouanaminte,59.0314,92,2,3,20,80,88005,1491,Nòdès,Wanament,1e Wo Maribawou,Wanament,100,0,0,0,49,1078893,Bovin,3,0
+306,-72.8736109850468,18.3959903456166,11ème  Ravine Sèche,Ouest,Petit-Goâve,122-11,Léogâne,38.4372,82,3,5,0,1090,40373,1050,Lwès,Tigwav,11e Ravin Sèk,Leyogàn,19.5,39.9,40.6,0,46,857873,Bovin,13,0
+307,-71.8165966782256,19.4916874025407,2ème Acul des Pins,Nord Est,Ouanaminthe,421-02,Ouanaminte,42.7179,68,3,5,50,910,7948,186,Nòdès,Wanament,2e Lakildèpen,Wanament,81.7,1.5,16.8,0,67,305736,Bovin,21,3
+308,-71.6998856616907,19.222717043541,3ème Lamielle,Centre,Cerca la Source,641-03,Cerca La Source,87.3836,30,4,5,420,1200,15222,174,Sant,Sèkalasous,3e Lamyèl,Sèkalasous,44.7,26.4,28.9,0,57,1023559,Bovin,100,29
+309,-71.7221575653236,19.1448357559564,1er Acajou Brulé,Centre,Cerca la Source,641-01,Cerca La Source,151.1446,12,3,4,240,1160,16756,111,Sant,Sèkalasous,1e Kajou Brile,Sèkalasous,57.9,20.1,22,0,61,1616171,Bovin,88,28
+310,-71.8156805752808,19.2146736134419,2ème Acajou Brulé,Centre,Cerca la Source,641-02,Cerca La Source,122.5287,42,3,5,330,1020,17538,143,Sant,Sèkalasous,2e Kajou Brile,Sèkalasous,49.3,35,14.5,1.2,59,1948713,Bovin,53,2
+311,-72.0959905974672,18.9313542859245,3ème des Bayes,Centre,Boucan Carré,623-03,Mirebalais,141.991,23,5,5,100,1100,28565,201,Sant,Boukan Kare,3e Dèbay,Mibalè,39.7,48.7,11.5,0,62,1458570,Bovin,82,8
+312,-73.9928591672935,18.3179987215231,3ème Carrefour Canon,Sud,Chantal,713-03,Cayes,94.0738,22,5,7,150,2340,15175,161,Sid,Chantal,3e Kafou Kannon,Okay,5.5,38.6,42.3,13.6,78,833556,Bovin,61,5
+313,-72.1999130051344,19.02164416868,1ère Petite Montagne,Centre,Boucan Carré,623-01,Mirebalais,93.1184,0,5,5,210,1530,18367,197,Sant,Boukan Kare,1e Ti Montay,Mibalè,0.8,48.6,50.6,0,77,1288449,Bovin,100,2
+314,-72.1816546953945,18.923502195477,2ème Boucan Carré,Centre,Boucan Carré,623-02,Mirebalais,119.8117,10,5,5,80,990,23731,198,Sant,Boukan Kare,2e Boukan Kare,Mibalè,56.3,38.6,5,0,59,1410132,Bovin,65,13
+315,-72.8779377906887,18.3026519217492,9ème des Palmes,Ouest,Petit-Goâve,122-09,Léogâne,31.235,71,4,5,250,1090,17142,549,Lwès,Tigwav,9e Palm,Leyogàn,4.2,52.8,43.1,0,58,363167,Bovin,37,0
+316,-72.9075526081675,18.3763303009283,7ème des Platons,Ouest,Petit-Goâve,122-07,Léogâne,17.5137,52,3,5,120,1190,6476,370,Lwès,Tigwav,7e Platon,Leyogàn,0,53.4,46.6,0,57,265717,Bovin,46,0
+317,-72.9286905253108,18.3189588025454,8ème des Platons,Ouest,Petit-Goâve,122-08,Léogâne,45.7608,83,4,5,310,1190,26516,579,Lwès,Tigwav,8e Platon,Leyogàn,4.4,68.9,26.7,0,59,884241,Bovin,58,0
+318,-72.9415977351634,18.376235908074,5ème Trou Canari,Ouest,Petit-Goâve,122-05,Léogâne,10.1443,37,3,5,270,1070,4062,400,Lwès,Tigwav,5e Twou Kanari,Leyogàn,0,43.3,56.7,0,70,228673,Bovin,9,0
+319,-72.956203138716,18.3379007681533,6ème Trou Canari,Ouest,Petit-Goâve,122-06,Léogâne,20.9928,34,4,5,400,1100,7737,369,Lwès,Tigwav,6e Twou Kanari,Leyogàn,0,80.6,19.4,0,58,1228268,Bovin,61,8
+320,-72.9791030963605,18.4523570463802,3ème Trou Chouchou,Ouest,Petit-Goâve,122-03,Léogâne,33.7305,22,3,3,0,640,10105,300,Lwès,Tigwav,3e Twou Chouchou,Leyogàn,9.8,44.5,45.8,0,69,298731,Bovin,38,0
+321,-72.9922314460167,18.359250238968,4ème Fonds Arabie,Ouest,Petit-Goâve,122-04,Léogâne,36.6867,23,4,5,80,950,12401,338,Lwès,Tigwav,4e Fon Arabi,Leyogàn,1.1,92.3,6.6,0,60,317916,Bovin,86,0
+322,-72.941541396584,18.4134315882879,1ère Bino,Ouest,Petit-Goâve,122-01,Léogâne,43.9594,70,3,4,0,780,31324,713,Lwès,Tigwav,1e Bino,Leyogàn,54,40.5,5.6,0,52,1272556,Bovin,24,0
+323,-72.3583313517549,18.7157576399208,9ème Source Matelas,Ouest,Cabaret,142-09,Arcahaie,36.5097,90,3,4,0,490,19582,536,Lwès,Kabarè,9e Sous Matla,Akayè,64.5,33.6,1.9,0,56,1736654,Bovin,0,0
+324,-73.0098417750188,18.4200430645388,2ème Delatre,Ouest,Petit-Goâve,122-02,Léogâne,43.7352,86,3,4,20,450,21785,498,Lwès,Tigwav,2e Delat,Leyogàn,54.5,38.3,7.2,0,55,907238,Bovin,12,0
+325,-71.9932725017467,19.4283889046832,3ème Corosse,Nord Est,Vallière,441-03,Valières,27.5267,0,5,5,220,1030,4463,162,Nòdès,Valyè,3e Kowòs,Valyè,9.6,70.1,20.2,0,66,291825,Bovin,100,0
+326,-71.9221629704758,19.4266298826804,1ère Trois Palmistes,Nord Est,Vallière,441-01,Valières,81.5496,21,5,5,390,1150,9261,114,Nòdès,Valyè,1e Twa Palmis,Valyè,37,29,34,0,59,478870,Bovin,61,0
+327,-71.9881178891393,19.4822798315836,2ème Grosse Roche,Nord Est,Vallière,441-02,Valières,46.6692,25,5,5,320,1040,7835,168,Nòdès,Valyè,2e Gwòs Wòch,Valyè,45.1,33.8,21.1,0,71,174022,Bovin,22,0
+328,-72.1504235325487,18.7811134336176,3ème Grand Boucan,Centre,Mirebalais,621-03,Mirebalais,83.7522,62,4,5,100,880,30830,368,Sant,Mibalè,3e Gran Boukan,Mibalè,67,29.2,3.8,0,58,847344,Bovin,39,0
+329,-72.1082932334156,18.7564657745539,4ème Crête Brûlée,Centre,Mirebalais,621-04,Mirebalais,74.2718,48,4,5,110,900,22176,299,Sant,Mibalè,4e Krèt Brile,Mibalè,48.2,39.7,12.1,0,59,1483389,Bovin,25,11
+330,-72.037313307183,18.7604809264834,1ère Gascogne,Centre,Mirebalais,621-01,Mirebalais,70.9668,30,4,5,150,1150,16359,231,Sant,Mibalè,1e Gaskòy,Mibalè,51.6,28.6,19.1,0.7,75,1382446,Bovin,41,3
+331,-72.0356833153064,18.828298637696,2ème Sarazin,Centre,Mirebalais,621-02,Mirebalais,97.6511,68,5,5,110,1040,39761,407,Sant,Mibalè,2e Sarazen,Mibalè,54.4,31.9,12,1.8,57,1470306,Bovin,51,0
+332,-72.8855373871199,19.586715979705,2ème Sources Chaudes,Artibonite,Anse Rouge,523-02,Gros Morne,155.9875,33,1,3,0,880,27638,177,Latibonit,Ans Wouj,2e Sous Cho,Gwo Mòn,72.2,19.4,8.4,0,65,1382354,Caprin,41,0
+333,-73.0010447032855,19.675698727538,1ère de L'Arbre,Artibonite,Anse Rouge,523-01,Gros Morne,274.9814,46,1,3,0,1020,49542,180,Latibonit,Ans Wouj,1e Delab,Gwo Mòn,75.6,19.1,5.3,0,64,2786828,Bovin,26,3
+334,-73.811424169761,18.0491914528861,3ème Trichet,Sud,St. Jean du Sud,722-03,Port-Salut,23.6286,66,4,4,0,160,7238,306,Sid,Sen Jan nan Sid,3e Trichè,Pò Sali,77.9,22.1,0,0,62,428736,Bovin,26,0
+335,-73.851661832609,18.0816583584273,1ère Tapion,Sud,St. Jean du Sud,722-01,Port-Salut,24.9345,79,4,5,0,330,14017,562,Sid,Sen Jan nan Sid,1e Tapyon,Pò Sali,50.2,46.8,3.1,0,50,342349,Bovin,19,0
+336,-73.8550606955926,18.0409478975195,2ème Débouchette,Sud,St. Jean du Sud,722-02,Port-Salut,21.5437,46,4,4,0,230,5338,248,Sid,Sen Jan nan Sid,2e Debouchèt,Pò Sali,85,14.2,0.8,0,54,434286,Bovin,79,0
+337,-72.6907676281655,18.3290757388201,6ème Grande Colline,Ouest,Grand-Goâve,123-06,Léogâne,21.0364,66,4,5,240,1260,9086,432,Lwès,Grangwav,6e Gran Kolin,Leyogàn,2.5,84.2,13.3,0,66,417946,Bovin,28,0
+338,-72.3926886336433,18.8049702446406,4ème Fonds des Blancs,Ouest,Cabaret,142-04,Arcahaie,112.8727,42,3,4,40,1280,23556,209,Lwès,Kabarè,4e Fondèblan,Akayè,25,36.8,36,2.2,64,599032,Bovin,55,0
+339,-72.7217498946994,18.3996910638383,7ème Gérard,Ouest,Grand-Goâve,123-07,Léogâne,45.1476,46,3,4,0,650,11680,259,Lwès,Grangwav,7e Jera,Leyogàn,48.5,47.6,3.9,0,44,583346,Bovin,52,2
+340,-72.4079783534977,18.7439233928569,1ère Boucassin,Ouest,Cabaret,142-01,Arcahaie,40.4724,93,3,4,0,450,45712,1129,Lwès,Kabarè,1e Boukasen,Akayè,78.6,21.4,0,0,50,881658,Bovin,1,0
+341,-72.7514690959696,18.3339276809634,4ème Moussambe,Ouest,Grand-Goâve,123-04,Léogâne,30.0995,0,3,5,360,1310,9709,323,Lwès,Grangwav,4e Mousanbe,Leyogàn,0,45.7,53.6,0.7,70,1247165,Bovin,62,0
+342,-72.4570561182709,18.7593513262644,2ème Boucassin,Ouest,Cabaret,142-02,Arcahaie,15.3718,99,3,3,0,80,5122,333,Lwès,Kabarè,2e Boukasen,Akayè,100,0,0,0,46,962289,Bovin,91,0
+343,-72.7023149315131,18.3518903461997,5ème Grande Colline,Ouest,Grand-Goâve,123-05,Léogâne,26.5346,51,3,4,190,1200,8231,310,Lwès,Grangwav,5e Gran Kolin,Leyogàn,10.7,85,4.4,0,54,340521,Bovin,10,3
+344,-72.8054689113214,18.3360263775182,2ème Tête à Boeuf,Ouest,Grand-Goâve,123-02,Léogâne,61.8059,17,4,5,180,1360,14553,235,Lwès,Grangwav,2e Tètabèf,Leyogàn,0,31.4,64.4,4.2,73,768647,Bovin,37,0
+345,-72.781400464754,18.2908265232486,3ème Moussambe,Ouest,Grand-Goâve,123-03,Léogâne,16.7115,0,5,5,330,1340,6450,386,Lwès,Grangwav,3e Mousanbe,Leyogàn,0,29.6,66.4,4,72,362755,Bovin,74,0
+346,-72.7852283429837,18.4049190360772,1ère Tête à Boeuf,Ouest,Grand-Goâve,123-01,Léogâne,44.2509,61,3,4,0,780,27895,630,Lwès,Grangwav,1e Tètabèf,Leyogàn,41.1,47,10.3,1.6,49,688634,Bovin,19,0
+347,-72.0900574699291,19.3482176443695,1ère Savannette,Nord,Pignon,344-01,Saint Raphaël,60.9128,69,2,4,230,740,27787,456,Nò,Piyon,1e Savanèt,Sen Rafayèl,62.7,29,8.4,0,51,743338,Bovin,35,1
+348,-73.3302573191527,18.4628463114568,2ème Grande Rivière-Joly,Nippes,Anse-à-Veau,1021-02,Anse à Veau,41.6606,57,3,4,0,630,12777,307,Nip,Ansavo,2e Gran Rivyè Joli,Ansavo,52,40.1,8,0,52,415554,Bovin,76,0
+349,-72.0335123395092,19.6699586036928,1ère Champin,Nord Est,Caracol,434-01,Trou du Nord,30.6721,60,3,3,0,30,6460,211,Nòdès,Karakòl,1e Chanpen,Twoudinò,100,0,0,0,59,358986,Bovin,5,11
+350,-72.1194681584466,19.3064602445962,2ème La Belle Mère,Nord,Pignon,344-02,Saint Raphaël,83.2891,30,2,4,290,690,25383,305,Nò,Piyon,2e Labèlmè,Sen Rafayèl,91.5,8.3,0.2,0,55,582896,Bovin,82,0
+351,-73.286011008992,18.4427970289127,3ème Sault de Baril,Nippes,Anse-à-Veau,1021-03,Anse à Veau,36.5121,1,3,4,0,880,11428,313,Nip,Ansavo,3e So Barik,Ansavo,22.5,49.5,28,0,57,568741,Bovin,43,0
+352,-71.9756021397405,19.6974033937712,2ème Claudine,Nord Est,Caracol,434-02,Trou du Nord,47.4099,69,2,3,0,30,2924,62,Nòdès,Karakòl,2e Klodin,Twoudinò,100,0,0,0,66,66813,Bovin,38,20
+353,-73.4005380668934,18.5040889610764,1ère Baconnois,Nippes,Anse-à-Veau,1021-01,Anse à Veau,28.7597,70,3,3,0,420,5343,186,Nip,Ansavo,1e Bakonwa,Ansavo,67.3,18.4,14.4,0,54,855226,Bovin,90,0
+354,-73.6613041706436,18.4010743957317,5ème Laroque,Sud,Cavaillon,733-05,Aquin,31.1452,0,4,6,60,780,6409,206,Sid,Kavayon,5e Lawòk,Aken,8.5,66.4,25.1,0,61,237622,Bovin,35,0
+355,-73.6105888736345,18.3573137600679,3ème Gros Marin,Sud,Cavaillon,733-03,Aquin,36.6062,47,4,5,40,1110,12792,349,Sid,Kavayon,3e Gwo Maren,Aken,29.6,33.2,37.2,0,66,147635,Bovin,38,0
+356,-73.5984682296539,18.3902582704467,4ème Mare Henry,Sud,Cavaillon,733-04,Aquin,47.7071,33,4,5,60,700,10553,221,Sid,Kavayon,4e Ma Anri,Aken,12.8,70,17.3,0,57,390491,Bovin,58,0
+357,-73.6276775299379,18.2864147300688,1ère Boileau,Sud,Cavaillon,733-01,Aquin,57.3091,48,4,5,0,1060,29460,514,Sid,Kavayon,1e Bwalo,Aken,24.4,49.2,26,0.4,54,427847,Bovin,26,0
+358,-73.6650296628663,18.3173883800129,2ème Martineau,Sud,Cavaillon,733-02,Aquin,55.971,72,4,5,10,340,25250,451,Sid,Kavayon,2e Matino,Aken,66.1,27.3,6.5,0,49,1703349,Bovin,30,0
+359,-74.0373035278875,18.2347735523734,2ème Des Pas,Sud,Coteaux,741-02,Coteaux,26.2472,70,3,4,0,970,9369,357,Sid,Okoto,2e Dèpa,Okoto,16.8,53.8,29.4,0,60,317988,Bovin,68,0
+360,-74.0350368991572,18.2692806967254,3ème Quentin,Sud,Coteaux,741-03,Coteaux,18.0803,0,3,5,0,870,4566,253,Sid,Okoto,3e Kenten,Okoto,3.6,37.1,59.3,0,74,251146,Bovin,98,0
+361,-74.0075708980675,18.2264386063249,1ère Condé,Sud,Coteaux,741-01,Coteaux,26.9009,38,3,5,0,1090,6074,226,Sid,Okoto,1e Konde,Okoto,9.5,51.8,38.7,0,75,323336,Bovin,46,0
+362,-73.5524260332438,18.4439838365171,2ème Anse aux Pins,Nippes,Plaisance du Sud,1025-02,Anse à Veau,37.8129,68,3,4,240,880,8355,221,Nip,Plezans nan Sid,2e Ansopen,Ansavo,16.8,53.6,29.1,0.6,61,441177,Bovin,12,0
+363,-73.5352716844444,18.405534496182,3ème Vassale,Nippes,Plaisance du Sud,1025-03,Anse à Veau,29.7224,0,4,4,200,610,5163,174,Nip,Plezans nan Sid,3e Vasal,Ansavo,36.7,59.3,4,0,60,366572,Bovin,66,0
+364,-73.6253579661393,18.4383062421431,1ère Plaisance,Nippes,Plaisance du Sud,1025-01,Anse à Veau,23.8022,61,4,5,30,810,6924,291,Nip,Plezans nan Sid,1e Plezans,Ansavo,15.5,53.6,30.9,0,70,298810,Bovin,15,0
+365,-74.0987269347485,18.5852045664023,1ère Basse Voldrogue,Grande Anse,Jérémie,811-01,Jérémie,31.8725,2,3,6,10,380,6069,190,Grandans,Jeremi,1e Bas Vòldwòg,Jeremi,15.8,84.2,0,0,63,798659,Bovin,58,0
+366,-72.3498021445031,19.1959549700075,6ème La Croix,Artibonite,Dessalines / Marchand,541-06,Dessalines,112.5136,27,4,5,110,1050,40209,357,Latibonit,Desalin / Machan,6e Lakwa,Desalin,20.4,66.6,13,0,72,1019591,Bovin,57,0
+367,-72.4497260756188,19.2089901247857,4ème Poste Pierrot,Artibonite,Dessalines / Marchand,541-04,Dessalines,98.7697,46,3,5,20,690,34567,350,Latibonit,Desalin / Machan,4e Pòs Pyewo,Desalin,32.2,51.5,16.3,0,56,1134517,Bovin,25,0
+368,-72.3451543150288,19.1467673556778,5ème Fiéfé,Artibonite,Dessalines / Marchand,541-05,Dessalines,45.4949,43,4,5,170,1130,16534,363,Latibonit,Desalin / Machan,5e Fyefe,Desalin,12.1,57.3,30.6,0,56,399947,Bovin,43,0
+369,-72.5893495435016,19.2571103888796,2ème Fossé Naboth,Artibonite,Dessalines / Marchand,541-02,Dessalines,61.7253,90,2,3,0,10,39087,633,Latibonit,Desalin / Machan,2e Fose Nabot,Desalin,100,0,0,0,50,635400,Bovin,13,14
+370,-72.5114729626977,19.26470613111,3ème Ogé,Artibonite,Dessalines / Marchand,541-03,Dessalines,113.1913,80,2,4,10,740,63307,559,Latibonit,Desalin / Machan,3e Oje,Desalin,45.3,38.9,15.7,0,56,1913649,Bovin,9,3
+371,-72.5860497225082,19.1949262062953,1ère Villars,Artibonite,Dessalines / Marchand,541-01,Dessalines,37.9332,91,2,3,10,20,40168,1059,Latibonit,Desalin / Machan,1e Vila,Desalin,100,0,0,0,47,490164,Bovin,33,7
+372,-72.4516296529464,19.4939745698094,4ème Puiloreau,Artibonite,Ennery,512-04,Gonaïves,45.1344,56,3,4,300,1010,16735,371,Latibonit,Ennri,4e Pilbowo,Gonayiv,6.5,90.4,3.1,0,58,130746,Caprin,50,0
+373,-72.5227334406875,19.4896130915974,2ème Passe Reine,Artibonite,Ennery,512-02,Gonaïves,47.411,32,2,3,170,1110,11763,248,Latibonit,Ennri,2e Pas Rèn,Gonayiv,8.3,67.8,23.9,0,57,422097,Caprin,57,0
+374,-72.5295415962853,19.5409906381483,3ème Chemin Neuf,Artibonite,Ennery,512-03,Gonaïves,59.7456,10,2,4,150,980,9008,151,Latibonit,Ennri,3e Chimen Nèf,Gonayiv,8.6,84.3,7.1,0,73,410656,Bovin,51,22
+375,-72.2074020891408,18.701723127509,4ème Crochus,Ouest,Thomazeau,132-04,Croix des Bouquets,71.8899,25,2,5,30,900,9863,137,Lwès,Tamazo,4e Kwochi,Kwadèboukè,21.2,50.6,26.3,1.9,61,445250,Bovin,100,0
+376,-72.430963291384,19.4387697518533,1ère Savane Carrée,Artibonite,Ennery,512-01,Gonaïves,60.3724,38,3,4,370,1420,23283,386,Latibonit,Ennri,1e Savann Kare,Gonayiv,34.7,44.5,20.9,0,54,576419,Bovin,98,0
+377,-72.1223211028726,18.6005560423666,2ème Grande Plaine,Ouest,Thomazeau,132-02,Croix des Bouquets,43.2725,66,2,2,30,60,28668,662,Lwès,Tamazo,2e Gran Plenn,Kwadèboukè,100,0,0,0,59,1054201,Bovin,69,0
+378,-72.0610817459164,18.7056039460482,3ème Trou d'Eau,Ouest,Thomazeau,132-03,Croix des Bouquets,39.154,0,3,5,260,1360,4242,108,Lwès,Tamazo,3e Twou Dlo,Kwadèboukè,0.1,39.1,53.3,7.5,77,945227,Bovin,100,0
+379,-74.3435329890912,18.5049306638481,2e Boucan,Grande Anse,Chambellan,815-02,Jérémie,45.0627,7,4,6,70,720,7577,168,Grandans,Chanbelan,2e Boukan,Jeremi,1,83.3,15.7,0,72,802851,Bovin,8,0
+380,-72.1009832767399,18.6475439483773,1ère Grande Plaine,Ouest,Thomazeau,132-01,Croix des Bouquets,137.7989,76,2,4,20,840,37604,273,Lwès,Tamazo,1e Gran Plenn,Kwadèboukè,72.1,17,10.9,0,57,1722997,Bovin,40,2
+381,-74.161326303157,18.6319461382353,8e Fonds Rouge Dahere,Grande Anse,Jérémie,811-08,Jérémie,25.9073,80,3,4,0,530,24771,956,Grandans,Jeremi,8e Wouj Dayè,Jeremi,32,67.5,0.5,0,57,368244,Bovin,4,8
+382,-74.1851753700774,18.6538061245192,9e Fonds Rouge Torberck,Grande Anse,Jérémie,811-09,Jérémie,33.4551,74,3,4,0,490,25280,756,Grandans,Jeremi,9e Wouj Tòbèk,Jeremi,44.2,55.8,0,0,56,397975,Bovin,3,15
+383,-74.3115831474454,18.5368852052027,1e  Déjean,Grande Anse,Chambellan,815-01,Jérémie,28.4589,81,4,6,60,740,9956,350,Grandans,Chanbelan,1e Dejan,Jeremi,14.5,73,12.6,0,61,595519,Bovin,2,0
+384,-74.2180897868681,18.5090880444567,6e Iles Blanches,Grande Anse,Jérémie,811-06,Jérémie,44.4765,53,5,7,30,1230,12797,288,Grandans,Jeremi,6e Zilblanch,Jeremi,6.9,73.7,19.3,0,63,1527335,Bovin,74,5
+385,-74.1723833918836,18.6078464392611,7e Marfranc,Grande Anse,Jérémie,811-07,Jérémie,29.1773,67,3,5,0,670,18346,629,Grandans,Jeremi,7e Mafran,Jeremi,27.5,58,14.6,0,64,254552,Bovin,9,0
+386,-74.1426655823246,18.5876517687428,4e Basse Guinaudée,Grande Anse,Jérémie,811-04,Jérémie,29.7696,11,3,6,10,330,8066,271,Grandans,Jeremi,4e Bas Ginode,Jeremi,20.7,79.3,0,0,63,316398,Bovin,21,0
+387,-74.1874155897228,18.5434024097238,5e Ravine à Charles,Grande Anse,Jérémie,811-05,Jérémie,39.9739,55,5,7,20,980,13765,344,Grandans,Jeremi,5e Ravinachal,Jeremi,21.9,66.5,11.5,0.1,75,454686,Bovin,66,0
+388,-74.1122519446395,18.5052173858746,2ème Haute Voldrogue,Grande Anse,Jérémie,811-02,Jérémie,53.4963,33,5,7,60,1450,15664,293,Grandans,Jeremi,2e Wot Vòldwòg,Jeremi,4.2,58,35.5,2.4,64,1415847,Bovin,55,0
+389,-74.1641804663555,18.4597249484486,3e Haute Guinaudée,Grande Anse,Jérémie,811-03,Jérémie,130.3011,38,4,7,150,1790,20534,158,Grandans,Jeremi,3e Wot Ginode,Jeremi,5.2,22.4,67.4,5,65,468420,Bovin,55,4
+390,-72.5472609617129,18.9820288920926,6ème Terre Nette,Artibonite,Verrettes,532-06,Saint-Marc,40.4166,0,3,4,430,1400,2775,69,Latibonit,Verèt,6e Tè Nèt,Sen Mak,0.3,66.8,32.8,0,78,173479,Bovin,100,0
+391,-72.4423428129513,18.9769275673598,4ème Désarmes,Artibonite,Verrettes,532-04,Saint-Marc,107.0416,61,4,4,40,1430,34026,318,Latibonit,Verèt,4e Dezam,Sen Mak,18.2,49.5,32.3,0,61,808483,Bovin,11,8
+392,-72.5237129761877,19.026127338873,5ème Bastien,Artibonite,Verrettes,532-05,Saint-Marc,74.1603,44,3,4,60,1220,25553,345,Latibonit,Verèt,5e Bastyen,Sen Mak,16.9,63.6,19.4,0,59,410674,Bovin,39,1
+393,-72.5045788676095,19.0840020110822,2ème Bélanger,Artibonite,Verrettes,532-02,Saint-Marc,61.8682,81,3,4,20,430,34361,555,Latibonit,Verèt,2e Belanje,Sen Mak,71,29,0,0,49,834445,Bovin,13,0
+394,-72.4060788453426,19.0191088185915,3ème Guillaume Mogé,Artibonite,Verrettes,532-03,Saint-Marc,30.9585,92,4,4,30,270,13595,439,Latibonit,Verèt,3e Giyòm Moje,Sen Mak,94.5,5.5,0,0,53,333236,Bovin,0,0
+395,-72.2799502895546,18.5842013801619,1ère Bellevue,Ouest,Tabarre,118-01,Port-au-Prince,15.7069,100,2,3,20,70,104612,6660,Lwès,Taba,1e Bèlvi,Pòtoprens,99.9,0,0,0,37,248060,Bovin,0,0
+396,-71.8400137692086,18.8261877709995,3ème Riaribes,Centre,Belladère,632-03,Lascahobas,66.5971,57,4,5,200,1200,22840,343,Sant,Beladè,3e Riyarib,Laskawobas,42.6,47.3,10.1,0,56,585550,Bovin,80,4
+397,-72.5563687316641,19.1309187836851,1ère Liancourt,Artibonite,Verrettes,532-01,Saint-Marc,33.5745,98,2,3,20,180,45470,1354,Latibonit,Verèt,1e Liyankou,Sen Mak,94.2,5.8,0,0,45,748006,Bovin,9,0
+398,-71.7699500379624,18.8443848050658,1ère Renth Mathe,Centre,Belladère,632-01,Lascahobas,132.131,73,3,5,210,1570,56357,427,Sant,Beladè,1e Rentmat,Laskawobas,53,39.1,7.9,0,56,1311642,Bovin,32,2
+399,-71.8469649050067,18.9121441923533,2ème Roye sec,Centre,Belladère,632-02,Lascahobas,101.773,4,3,5,170,430,21605,212,Sant,Beladè,2e Wòy Sèk,Laskawobas,95.5,4.5,0,0,61,983830,Bovin,64,2
+400,-73.9327793024672,18.5163690287176,2e Fonds d' Icaque,Grande Anse,Corail,831-02,Corail,37.5083,0,3,4,70,600,4829,129,Grandans,Koray,2e Fondikak,Koray,50.8,40,9.1,0,64,716478,Bovin,60,0
+401,-73.9388858523367,18.5729376906407,3e Champy,Grande Anse,Corail,831-03,Corail,20.667,0,3,4,0,500,2203,107,Grandans,Koray,3e Chanpi,Koray,32.9,49.3,17.8,0,71,1085877,Bovin,99,0
+402,-73.8835232251727,18.5387552949586,1ere Duquillon,Grande Anse,Corail,831-01,Corail,50.3573,48,3,4,0,490,7953,158,Grandans,Koray,1e Dikiyon,Koray,29.4,68.3,2.3,0,62,707674,Bovin,44,0
+403,-72.2976475224949,18.5543044748833,1ère Saint martin,Ouest,Delmas,112-01,Port-au-Prince,26.0411,100,3,3,10,300,349633,13426,Lwès,Dèlma,1e Sen Maten,Pòtoprens,100,0,0,0,25,262241,Bovin,0,0
+404,-72.6115564430899,18.353699306845,13ème Petit Harpon,Ouest,Léogane,121-13,Léogâne,19.3648,14,3,4,310,840,7382,381,Lwès,Leyogàn,13e Ti Apon,Leyogàn,3.1,73.9,23,0,61,491177,Bovin,27,0
+405,-73.3160409279657,19.6855425157591,1ère Plate Forme,Nord Ouest,Bombardopolis,933-01,Môle Saint Nicolas,88.528,71,1,3,0,630,13688,155,Nòdwès,Bonbadopolis,1e Platfòm,Mòl Sen Nikola,74.5,17.8,7.7,0,62,1238405,Bovin,20,1
+406,-72.5911350951053,18.4340253147364,11ème Gros Morne,Ouest,Léogane,121-11,Léogâne,28.3701,61,3,4,50,660,12674,447,Lwès,Leyogàn,11e Gwo Mòn,Leyogàn,22.7,61.4,15.8,0,68,424863,Bovin,10,3
+407,-73.3632046355073,19.6971986760605,2ème des Forges,Nord Ouest,Bombardopolis,933-02,Môle Saint Nicolas,69.4878,66,1,3,0,700,17775,256,Nòdwès,Bonbadopolis,2e Dèfòj,Mòl Sen Nikola,66.3,22.7,11,0,63,984478,Caprin,10,1
+408,-72.6161749402053,18.4117518771686,12ème Cormiers,Ouest,Léogane,121-12,Léogâne,24.3089,49,3,4,60,780,8350,343,Lwès,Leyogàn,12e Kòmye,Leyogàn,9.1,77,13.9,0,52,589425,Bovin,3,1
+409,-71.7914741885342,18.1192544586992,1ère Boucan Guillaume,Sud-Est,Anse-à-Pitre,234-01,Belle Anse,126.604,80,1,5,0,750,14079,111,Sidès,Ansapit,1e Boukan Giyòm,Bèl Ans,59,40.7,0.3,0,65,509667,Bovin,8,0
+410,-72.5589707781315,18.3821976801035,10ème Fonds d'Oie,Ouest,Léogane,121-10,Léogâne,35.8896,62,4,5,230,880,17590,490,Lwès,Leyogàn,10e Fondwa,Leyogàn,0,67,33,0,50,192579,Bovin,35,0
+411,-71.7776492248819,18.2396667834847,2ème Bois d'Orme,Sud-Est,Anse-à-Pitre,234-02,Belle Anse,55.053,40,4,5,360,2270,9256,168,Sidès,Ansapit,2e Bwadòm,Bèl Ans,14,78.2,7.7,0,71,650003,Bovin,57,0
+412,-73.0492459398371,18.8020341154309,4ème Pointe à Raquette,Ouest,Pointe-à-Raquette,152-04,La Gonave,76.6153,35,2,3,0,750,17137,224,Lwès,Pwentarakèt,4e Pwentarakèt,Lagonav,49.1,44.3,6.6,0,70,1615746,Bovin,31,1
+413,-72.2489329877332,18.5599197689423,2ème Bellevue,Ouest,Tabarre,118-02,Port-au-Prince,12.7164,99,2,3,50,160,39256,3087,Lwès,Taba,2e Bèlvi,Pòtoprens,100,0,0,0,40,30548,Porcin,0,0
+414,-73.1343365269193,18.911233365856,5ème Gros Mangle,Ouest,Pointe-à-Raquette,152-05,La Gonave,31.5267,52,2,2,0,260,5004,159,Lwès,Pwentarakèt,5e Gwo Mang,Lagonav,96.4,3.6,0,0,62,284104,Bovin,47,0
+415,-73.2384518604273,18.8945807880657,2ème Grand Vide,Ouest,Pointe-à-Raquette,152-02,La Gonave,68.8586,0,2,4,0,350,9081,132,Lwès,Pwentarakèt,2e Gran Vid,Lagonav,96,4,0,0,66,925658,Bovin,54,0
+416,-73.161493738355,18.857985358856,3ème Trou Louis,Ouest,Pointe-à-Raquette,152-03,La Gonave,67.9106,0,2,2,0,360,11670,172,Lwès,Pwentarakèt,3e Twou Lwi,Lagonav,98,2,0,0,59,846437,Bovin,79,0
+417,-73.0225735707218,18.2995215081164,3ème Dessources,Nippes,Miragoâne,1011-03,Miragoâne,46.464,18,3,5,60,650,11062,238,Nip,Miragwàn,3e Desous,Miragwàn,11.1,79.7,9.2,0,75,902254,Bovin,95,0
+418,-73.214201169432,18.9418611788581,1ère La Source,Ouest,Pointe-à-Raquette,152-01,La Gonave,64.7365,0,2,2,0,320,5642,87,Lwès,Pwentarakèt,1e Lasous,Lagonav,89.8,10.1,0,0,75,252833,Bovin,62,0
+419,-73.1248918702733,18.3775232188872,4ème Saint-Michel,Nippes,Miragoâne,1011-04,Miragoâne,22.2482,78,3,4,110,650,10033,451,Nip,Miragwàn,4e Sen Michèl,Miragwàn,39.6,57.3,3,0,57,411434,Bovin,17,0
+420,-73.0744880372182,18.4156658154098,1ère Chalon,Nippes,Miragoâne,1011-01,Miragoâne,50.1034,91,3,4,-2,310,32333,645,Nip,Miragwàn,1e Chalon,Miragwàn,50.4,48.7,0.9,0,48,570309,Bovin,2,0
+421,-73.0599863842001,18.3521996082771,2ème Belle Rivière,Nippes,Miragoâne,1011-02,Miragoâne,50.4625,25,4,4,20,590,16380,325,Nip,Miragwàn,2e Bèl Rivyè,Miragwàn,23.9,72.1,4,0,64,686004,Bovin,52,0
+422,-72.1668128085072,19.2358796599766,3ème Hatty,Centre,Maïssade,612-03,Hinche,119.8954,0,3,4,260,410,17044,142,Sant,Mayisad,3e Ati,Ench,100,0,0,0,71,1508787,Bovin,74,1
+423,-71.9270081615458,19.5744327062963,2ème Grand Bassin,Nord Est,Terrier Rouge,433-02,Trou du Nord,51.0923,62,3,4,50,400,14120,276,Nòdès,Terye Wouj,2e Gran Basen,Twoudinò,80,14.4,5.6,0,58,1051462,Bovin,11,0
+424,-72.2017888841044,19.1741301913768,1ère Savane Grande,Centre,Maïssade,612-01,Hinche,108.3322,39,4,5,260,740,43663,403,Sant,Mayisad,1e Savann Grand,Ench,87.9,10.8,1.2,0,56,2318788,Bovin,21,0
+425,-72.833893827771,18.1721801585888,9ème Bas de Gris-gris,Sud-Est,Bainet,221-09,Bainet,75.7147,2,3,4,0,490,15618,206,Sidès,Benè,9e Ba Grigri,Benè,37.2,62.1,0.7,0,61,503353,Bovin,89,0
+426,-72.1640527726028,19.1273078235581,2ème Narang,Centre,Maïssade,612-02,Hinche,67.4073,9,4,5,250,1260,18038,268,Sant,Mayisad,2e Narang,Ench,52.4,29.8,17.6,0.2,68,298425,Bovin,43,0
+427,-72.8888586809092,19.7474264718021,3ème Haut des Moustiques,Nord Ouest,Bassin Bleu,913-03,Port-de-Paix,64.2268,40,2,3,250,890,24184,377,Nòdwès,Basen Ble,3e Wo Moustik,Pòdpè,21.8,74.9,3.3,0,56,280592,Caprin,39,0
+428,-72.8773968499251,18.250346349849,7ème Bras Gauche,Sud-Est,Bainet,221-07,Bainet,17.9445,0,4,4,120,600,5024,280,Sidès,Benè,7e Bra Goch,Benè,20.2,68.5,11.3,0,68,356282,Bovin,97,0
+429,-71.9259135209849,19.6647300265693,1ère Fond Blanc,Nord Est,Terrier Rouge,433-01,Trou du Nord,119.0821,75,2,3,0,390,20694,174,Nòdès,Terye Wouj,1e Fon Blan,Twoudinò,94.9,2.6,2.5,0,64,1766360,Bovin,14,0
+430,-73.4066138800155,19.6934328465949,3ème Plaine d'Oranges,Nord Ouest,Bombardopolis,933-03,Môle Saint Nicolas,28.8496,79,1,2,0,720,13008,451,Nòdwès,Bonbadopolis,3e Plenn Doranj,Mòl Sen Nikola,46.2,41.5,12.3,0,63,739604,Caprin,7,6
+431,-72.8466147648722,18.2264856274599,8ème Oranger,Sud-Est,Bainet,221-08,Bainet,28.6339,8,4,5,70,570,7423,259,Sidès,Benè,8e Zoranje,Benè,10.3,84.7,5,0,70,404793,Bovin,92,0
+432,-72.7673371811587,19.8152957161065,1ère La  Plate,Nord Ouest,Bassin Bleu,913-01,Port-de-Paix,56.9697,69,2,5,100,1160,22516,395,Nòdwès,Basen Ble,1e Laplat,Pòdpè,17,62.2,20.8,0,55,1390142,Bovin,14,0
+433,-72.6692955748254,18.308264185447,3ème Morne à Bruler,Sud-Est,La Vallée,214-03,Jacmel,24.3554,66,4,5,170,890,8525,350,Sidès,Lavale,3e Mònabrile,Jakmèl,0,86.3,13.7,0,63,161863,Bovin,56,0
+434,-72.7900428777024,18.2156958799688,5ème Bas de Grandou,Sud-Est,Bainet,221-05,Bainet,44.4555,27,4,5,0,570,13549,305,Sidès,Benè,5e Ba Grandou,Benè,17.9,81.2,0.9,0,56,753744,Bovin,28,0
+435,-72.8535919894619,19.7946166832561,2ème Carreau Datty,Nord Ouest,Bassin Bleu,913-02,Port-de-Paix,92.6508,2,1,3,60,650,15541,168,Nòdwès,Basen Ble,2e Kawo Dati,Pòdpè,62.7,36.2,1.1,0,67,339192,Bovin,63,0
+436,-72.8388258376834,18.270576270434,6ème Bas de Lacroix,Sud-Est,Bainet,221-06,Bainet,9.754,0,4,5,210,640,1333,137,Sidès,Benè,6e Ba Lakwa,Benè,0,51,49,0,73,44405,Bovin,97,0
+437,-72.6634395963612,18.2701716471958,1ère Mussac,Sud-Est,La Vallée,214-01,Jacmel,37.5119,72,4,5,170,820,13173,351,Sidès,Lavale,1e Misak,Jakmèl,5.6,76.5,17.9,0,50,320983,Bovin,12,0
+438,-72.7463789681497,18.2337621585549,3ème La Vallée de Bainet,Sud-Est,Bainet,221-03,Jacmel,26.5189,48,4,5,40,840,6924,261,Sidès,Benè,3e Lavale Benè,Benè,0.2,81.5,18.3,0,58,235709,Bovin,69,0
+439,-72.7313142980373,18.2853982712572,2ème Ternier,Sud-Est,La Vallée,214-02,Jacmel,23.4887,21,5,5,270,1230,6651,283,Sidès,Lavale,2e Tènye,Jakmèl,9.9,62.4,27.7,0,60,265329,Bovin,42,0
+440,-72.7910182279005,18.260653087068,4ème Haut Grandou,Sud-Est,Bainet,221-04,Bainet,20.0045,0,4,5,140,760,4103,205,Sidès,Benè,4e Wo Grandou,Benè,1.6,64.5,33.9,0,68,250828,Bovin,90,0
+441,-72.6740284448624,18.2141342344741,1ère Brésilienne,Sud-Est,Bainet,221-01,Bainet,41.6178,0,4,5,0,720,8550,205,Sidès,Benè,1e Brezilyèn,Benè,11.6,76.8,11.6,0,63,372430,Bovin,86,32
+442,-72.7171411269475,18.2196798209331,2ème Trou Mahot,Sud-Est,Bainet,221-02,Bainet,35.5255,24,4,5,0,840,8205,231,Sidès,Benè,2e Twou Mawo,Benè,8.7,69.8,21.5,0,60,288699,Bovin,58,16
+443,-73.1334620067634,18.2922311856286,9ème Fonds des Blancs,Sud,Aquin,731-09,Aquin,48.574,70,3,3,220,580,33120,682,Sid,Aken,9e Fondèblan,Aken,18.7,73.8,7.5,0,61,436290,Bovin,39,0
+444,-73.0674504685394,18.247493672742,7ème Frangipane,Sud,Aquin,731-07,Aquin,123.9873,50,2,4,0,520,54061,436,Sid,Aken,7e Franjipàn,Aken,43.7,53.4,3,0,65,655966,Bovin,73,0
+445,-73.284839172376,18.3502270472228,8ème Colline à Mongon,Sud,Aquin,731-08,Aquin,29.0864,85,3,4,210,550,24143,830,Sid,Aken,8e Kolin Mongon,Aken,19.3,76.2,4.5,0,51,375918,Bovin,50,0
+446,-73.3853303891571,18.3173583631368,5ème Mare à Coiffe,Sud,Aquin,731-05,Aquin,25.7476,81,3,5,20,880,23082,896,Sid,Aken,5e Marakwaf,Aken,30.5,43,26.6,0,46,266777,Bovin,53,0
+447,-73.2224997011246,18.3077802812042,6ème La Colline,Sud,Aquin,731-06,Aquin,67.4604,91,3,3,90,590,59744,886,Sid,Aken,6e Lakolin,Aken,33,45.9,21.1,0,56,523920,Bovin,49,50
+448,-73.423238137322,18.3032142339293,3ème Brodequin,Sud,Aquin,731-03,Aquin,41.005,80,3,5,0,1190,39174,955,Sid,Aken,3e Bwodken,Aken,23.6,30.3,45.8,0.2,53,232426,Bovin,17,0
+449,-73.1958080702139,18.24136662402,4ème Flamands,Sud,Aquin,731-04,Aquin,136.5068,44,2,3,0,600,21548,158,Sid,Aken,4e Flanman,Aken,47.8,44.3,7.9,0,68,16784,Bovin,74,73
+450,-72.5630598300698,19.3460743479804,1ère Lacroix Perisse,Artibonite,L'Estere,513-01,Gonaïves,55.194,74,2,3,10,720,30454,552,Latibonit,Lestè,1e Lakwa Peris,Gonayiv,52.3,36.7,11,0,57,589237,Bovin,63,0
+451,-73.3273907060053,18.2676318792992,1ère Macéan,Sud,Aquin,731-01,Aquin,87.785,65,2,3,0,280,29743,339,Sid,Aken,1e Maseyan,Aken,70.9,27.7,1.5,0,53,637752,Bovin,62,0
+452,-72.6488020810079,19.3606056582494,2ème Petites Desdunes,Artibonite,L'Estere,513-02,Gonaïves,118.9338,70,1,2,0,400,22413,188,Latibonit,Lestè,2e Ti Dedin,Gonayiv,86.9,7.1,6,0,59,354486,Bovin,10,0
+453,-73.3295883763868,18.3263552310802,2ème Bellevue,Sud,Aquin,731-02,Aquin,39.8595,87,3,4,20,530,45773,1148,Sid,Aken,2e Bèlvi,Aken,52.9,41.4,5.7,0,37,236870,Bovin,67,0
+454,-72.0950970132567,19.6567723670335,3ème Roucou,Nord,Limonade,313-03,Cap Haïtien,34.028,90,3,4,10,430,25023,735,Nò,Limonad,3e Woukou,Kap Ayisyen,83.6,12.6,3.7,0,51,932826,Bovin,0,0
+455,-72.3874494833524,19.5490299222932,2ème Bassin,Artibonite,Marmelade,552-02,Marmelade,36.0852,42,4,5,310,970,14094,391,Latibonit,Mamlad,2e Basen,Mamlad,6.8,49.6,43.6,0,60,447916,Bovin,72,0
+456,-72.4012617594459,19.5013855449308,3ème Platon,Artibonite,Marmelade,552-03,Marmelade,31.8928,63,3,5,490,1090,14810,464,Latibonit,Mamlad,3e Platon,Mamlad,11.7,76.9,11.4,0,61,73912,Bovin,74,0
+457,-72.0977026644767,19.7053472855878,1ère Basse Plaine,Nord,Limonade,313-01,Cap Haïtien,56.7906,83,1,3,0,20,17440,307,Nò,Limonad,1e Bas Plenn,Kap Ayisyen,100,0,0,0,60,514607,Bovin,8,0
+458,-72.138771380255,19.6276886921568,2ème Bois de Lance,Nord,Limonade,313-02,Cap Haïtien,39.5893,55,3,4,20,570,14254,360,Nò,Limonad,2e Bwa Lans,Kap Ayisyen,66.1,22.4,11.5,0,55,468445,Bovin,13,0
+459,-72.3476063241854,19.523899602739,1ère Crête à Pins,Artibonite,Marmelade,552-01,Marmelade,44.2583,35,4,5,520,1100,11814,267,Latibonit,Mamlad,1e Krètapen,Mamlad,3.1,68.2,28.7,0,61,431236,Bovin,48,0
+460,-72.5026189784334,19.6778848899239,8ème Margot,Nord,Pilate,372-08,Plaisance,23.5024,39,4,5,310,920,5956,253,Nò,Pilat,8e Mago,Plezans,0,70.2,29.8,0,67,253798,Bovin,75,27
+461,-72.3733218231641,19.6061417742364,6ème Soufrière,Nord,Acul du Nord,321-06,Acul du Nord,43.1885,0,5,5,60,940,5539,128,Nò,Akildinò,6e Soufriyè,Akildinò,3.5,64.7,31.8,0,75,508752,Bovin,95,2
+462,-72.3246441115424,19.6033178197911,4ème Grande Ravine,Nord,Acul du Nord,321-04,Acul du Nord,32.0822,11,4,5,70,990,6357,198,Nò,Akildinò,4e Gran Ravin,Akildinò,7.3,71.3,21.4,0,71,534401,Bovin,45,0
+463,-72.3464379326152,19.656486102728,5ème Coupe à David,Nord,Acul du Nord,321-05,Acul du Nord,15.8134,0,4,5,60,490,2986,189,Nò,Akildinò,5e Koupadavid,Akildinò,19.7,58.2,22.1,0,73,201544,Bovin,24,0
+464,-72.3133606488768,19.6820574397498,2ème Bas de l'Acul,Nord,Acul du Nord,321-02,Acul du Nord,36.2012,88,4,5,0,490,16318,451,Nò,Akildinò,2e Ba Lakil,Akildinò,77.3,12,10.7,0,55,912245,Bovin,0,0
+465,-72.2916669596997,19.6072496940464,3ème Mornet,Nord,Acul du Nord,321-03,Acul du Nord,34.4414,83,4,5,30,770,17307,503,Nò,Akildinò,3e Mònè,Akildinò,46.5,50.5,3,0,53,495293,Bovin,9,0
+466,-72.3536529547073,19.7442482638067,1ère Camp louise,Nord,Acul du Nord,321-01,Acul du Nord,25.8277,73,4,4,0,610,9837,381,Nò,Akildinò,1e Kan Lwiz,Akildinò,54.6,34.9,10.5,0,55,597953,Bovin,3,0
+467,-73.5369504602568,18.3177878929829,8ème Corail-Henry,Sud,St. Louis du Sud,732-08,Aquin,21.4012,49,5,5,70,1360,6625,310,Sid,Sen Lwi nan Sid,8e Koray Anri,Aken,4.2,6,84.8,5,75,374420,Bovin,50,0
+468,-73.6086946787698,18.2727510452364,6ème Solon,Sud,St. Louis du Sud,732-06,Aquin,23.6372,60,4,5,0,420,15217,644,Sid,Sen Lwi nan Sid,6e Solon,Aken,26.1,60.7,13.1,0,54,438096,Bovin,42,0
+469,-73.4974646497021,18.3156156753178,7ème Cherette,Sud,St. Louis du Sud,732-07,Aquin,23.4115,50,5,5,30,1250,6630,283,Sid,Sen Lwi nan Sid,7e Cherèt,Aken,3.8,13.2,67.2,15.8,68,209853,Bovin,46,0
+470,-73.4538585285532,18.273328903627,4ème Zanglais,Sud,St. Louis du Sud,732-04,Aquin,24.7015,90,3,5,0,670,15222,616,Sid,Sen Lwi nan Sid,4e Zanglè,Aken,26.7,29.1,44.2,0,61,109497,Porcin,88,0
+471,-73.567638146816,18.2960368889826,5ème Sucrerie-Henry,Sud,St. Louis du Sud,732-05,Aquin,17.0085,77,5,5,30,620,8767,515,Sid,Sen Lwi nan Sid,5e Sikreri Anri,Aken,6.4,39.9,53.7,0,65,469772,Bovin,4,0
+472,-73.5816701440076,18.2444123900204,2ème Baie Dumesle,Sud,St. Louis du Sud,732-02,Aquin,29.4698,68,4,5,0,560,21569,732,Sid,Sen Lwi nan Sid,2e Bè Dimèl,Aken,24.4,59.5,16.1,0,52,633277,Bovin,30,0
+473,-73.5172301618248,18.2595456409984,3ème Grenodière,Sud,St. Louis du Sud,732-03,Aquin,26.7792,76,4,5,0,610,20627,770,Sid,Sen Lwi nan Sid,3e Grenodyè,Aken,36.4,35,28.5,0,60,543811,Bovin,35,0
+474,-73.4794172151735,18.3006410296526,1ère Grands Fonds,Sud,St. Louis du Sud,732-01,Aquin,18.3587,5,5,5,40,1190,3603,196,Sid,Sen Lwi nan Sid,1e Gran Fon,Aken,1.9,20,71.9,6.2,75,172093,Bovin,82,0
+475,-73.7575377398231,18.2932283502226,5ème Mercy,Sud,Les Cayes,711-05,Cayes,28.6251,63,4,5,30,290,15819,553,Sid,Okay,5e Mèsi,Okay,84.6,15.4,0,0,51,563120,Bovin,10,0
+476,-73.7027686031282,18.2694073750495,6ème Boulmier,Sud,Les Cayes,711-06,Cayes,35.4877,54,4,5,0,230,16354,461,Sid,Okay,6e Boulmye,Okay,53.3,46.6,0,0,51,512058,Bovin,83,0
+477,-72.5478536822464,19.7114591341991,6ème Piment,Nord,Pilate,372-06,Plaisance,8.2605,0,4,5,290,1000,1565,189,Nò,Pilat,6e Piman,Plezans,0,69.5,30.4,0,66,97317,Bovin,87,5
+478,-73.8007765980097,18.3068269712674,3ème Laborde,Sud,Les Cayes,711-03,Cayes,36.7906,73,4,5,60,350,17538,477,Sid,Okay,3e Labòd,Okay,50.3,47.8,1.8,0,62,761927,Bovin,10,0
+479,-72.6018777704149,19.7441021730096,7ème Rivière La Porte,Nord,Pilate,372-07,Plaisance,25.5862,0,4,5,170,1150,2522,99,Nò,Pilat,7e Rivyè Lapòt,Plezans,0,49.1,50.9,0,70,75797,Bovin,92,0
+480,-73.7387810293002,18.2706345797114,4ème Laurent,Sud,Les Cayes,711-04,Cayes,24.4412,64,4,5,10,190,12802,524,Sid,Okay,4e Loran,Okay,83.6,16.4,0,0,49,1147180,Bovin,12,0
+481,-72.4960297363918,18.9027203083299,6ème des Matheux,Ouest,Arcahaie,141-06,Arcahaie,89.4721,23,3,4,150,1490,19953,223,Lwès,Akayè,6e Mate,Akayè,2.9,43.8,50.5,2.8,60,1471244,Bovin,66,7
+482,-72.5646194065823,19.7170334951635,4ème Joly,Nord,Pilate,372-04,Plaisance,8.6127,0,4,5,280,1000,2646,307,Nò,Pilat,4e Joli,Plezans,0.1,79.1,20.8,0,64,87997,Bovin,95,0
+483,-73.7588509317074,18.2145076696315,1ère Bourdet,Sud,Les Cayes,711-01,Cayes,52.7668,97,4,5,0,230,106264,2014,Sid,Okay,1e Boudè,Okay,87.2,12.8,0,0,41,930111,Bovin,0,0
+484,-72.5243859013742,19.7134883846064,5ème Dubourgs,Nord,Pilate,372-05,Plaisance,14.5988,0,4,5,370,1020,1405,96,Nò,Pilat,5e Dibou,Plezans,0,61.7,38.3,0,69,39903,Bovin,96,5
+485,-72.5392514547741,19.6326307973543,2ème Baudin,Nord,Pilate,372-02,Plaisance,16.8476,0,4,4,280,960,4983,296,Nò,Pilat,2e Boden,Plezans,22.9,48.5,28.6,0,67,211936,Bovin,83,0
+486,-73.8141645604435,18.2515323775738,2ème Fonfrède,Sud,Les Cayes,711-02,Cayes,40.0347,76,4,5,30,210,17935,448,Sid,Okay,2e Fonfrèd,Okay,100,0,0,0,49,1228279,Bovin,9,0
+487,-72.6332257856827,18.9364256638886,4ème Montrouis,Ouest,Arcahaie,141-04,Arcahaie,78.1581,59,2,4,0,1280,29028,371,Lwès,Akayè,4e Monwi,Akayè,5.4,28.5,61.7,4.5,51,1101678,Bovin,45,0
+488,-72.586118778339,19.6929128879848,3ème Ravine Trompette,Nord,Pilate,372-03,Plaisance,15.8048,53,4,4,260,870,6574,416,Nò,Pilat,3e Ravin Twonpèt,Plezans,25.3,63.3,11.3,0,56,175513,Bovin,67,0
+489,-72.4403076805132,18.8545050831557,5ème Délices,Ouest,Arcahaie,141-05,Arcahaie,95.5645,37,3,4,60,1430,29790,312,Lwès,Akayè,5e Delis,Akayè,14.2,32,53.5,0.2,64,1769713,Bovin,80,0
+490,-72.5629582584634,18.8973045670485,2ème Fonds Baptiste,Ouest,Arcahaie,141-02,Arcahaie,93.2568,40,2,4,0,1570,20122,216,Lwès,Akayè,2e Fon Batis,Akayè,11.1,39.8,48.4,0.6,52,2413607,Bovin,37,54
+491,-72.5527847625298,19.6656370378695,1ère Ballon,Nord,Pilate,372-01,Plaisance,22.4143,61,4,5,260,910,13827,617,Nò,Pilat,1e Balon,Plezans,32.2,60.1,7.8,0,51,476139,Bovin,6,0
+492,-72.5354274645955,18.8084216340518,3ème des Vases,Ouest,Arcahaie,141-03,Arcahaie,46.7281,96,2,3,0,280,76135,1629,Lwès,Akayè,3e Dèvaz,Akayè,98.6,1.2,0.2,0,40,1662128,Bovin,2,0
+493,-72.4941156512062,18.7847795090924,1ère Boucassin,Ouest,Arcahaie,141-01,Arcahaie,7.1597,94,2,3,0,90,10367,1448,Lwès,Akayè,1e Boukasen,Akayè,100,0,0,0,34,776363,Bovin,10,0
+494,-72.0420856114114,19.2276136180992,4ème Aguahedionde,Centre,Hinche,611-04,Hinche,170.0881,16,3,4,240,700,36173,213,Sant,Ench,4e Agwayedyond,Ench,87.8,11.4,0.9,0,55,1785970,Bovin,81,0
+495,-71.9637688954762,19.0772470260727,2ème Marmont,Centre,Hinche,611-02,Hinche,109.4764,16,3,4,210,880,30799,281,Sant,Ench,2e Mamon,Ench,94.8,3.8,1.5,0,54,1548256,Bovin,70,0
+496,-71.9298800446533,19.1577162829883,3ème Aguahedionde,Centre,Hinche,611-03,Hinche,123.3488,20,3,4,220,780,33120,269,Sant,Ench,3e Agwayedyond,Ench,78.4,19.9,1.7,0,54,3104312,Bovin,65,3
+497,-72.0921858559995,19.0973865210976,1ère Juanaria,Centre,Hinche,611-01,Hinche,179.5897,46,4,5,230,1370,78961,440,Sant,Ench,1e Jwanarya,Ench,51.5,40.5,8,0,54,2539836,Bovin,40,9
+498,-72.3055784544867,18.8920357042553,1ère Martineau,Artibonite,La Chapelle,533-01,Saint-Marc,82.2637,39,4,5,70,1230,15592,190,Latibonit,Lachapèl,1e Matino,Sen Mak,25.9,59,15.2,0,60,2039561,Bovin,57,6
+499,-72.3722583655647,18.9317148955066,2ème Bossous,Artibonite,La Chapelle,533-02,Saint-Marc,64.0923,44,4,4,50,1360,10162,159,Latibonit,Lachapèl,2e Bosou,Sen Mak,27.5,50.2,22.4,0,62,1244212,Bovin,84,8
+500,-73.1571031364739,18.3443075427833,10ème Guirand,Sud,Aquin,731-10,Aquin,41.6532,61,3,4,210,550,35447,851,Sid,Aken,10e Giran,Aken,48.4,43.7,7.9,0,60,435010,Bovin,72,4
+501,-72.3095286533629,19.1135911510776,5ème Pérodin,Artibonite,Petite Rivière de L'Artibonite,542-05,Dessalines,122.0125,0,4,5,70,1720,12334,101,Latibonit,Ti Rivyè Latibonit,5e Pewoden,Desalin,7.5,58.1,33.3,1.1,57,1240751,Bovin,70,49
+502,-72.3055793439012,19.0557986979103,6ème Médor,Artibonite,Petite Rivière de L'Artibonite,542-06,Dessalines,95.6534,0,4,5,170,1780,8602,90,Latibonit,Ti Rivyè Latibonit,6e Medò,Desalin,0,48.3,51.7,0.1,71,397962,Bovin,76,64
+503,-72.4352263767432,19.086777117968,3ème Labady,Artibonite,Petite Rivière de L'Artibonite,542-03,Dessalines,64.4072,73,3,4,30,370,48759,757,Latibonit,Ti Rivyè Latibonit,3e Labadi,Desalin,76.6,22.6,0.8,0,44,901078,Bovin,15,23
+504,-72.305230073782,18.9839998086524,4ème Savane à Roche,Artibonite,Petite Rivière de L'Artibonite,542-04,Dessalines,143.8779,42,4,5,40,1070,25425,177,Latibonit,Ti Rivyè Latibonit,4e Savann Awòch,Desalin,26.8,47.6,25.6,0,60,1523746,Bovin,84,7
+505,-72.5461985981464,19.1722813402295,1ère Bas Coursin,Artibonite,Petite Rivière de L'Artibonite,542-01,Dessalines,47.7701,87,2,3,10,30,36724,769,Latibonit,Ti Rivyè Latibonit,1e Ba Kousen,Desalin,100,0,0,0,38,841631,Bovin,3,0
+506,-72.481888879012,19.1513780881255,2ème Bas Coursin II,Artibonite,Petite Rivière de L'Artibonite,542-02,Dessalines,33.0309,40,3,4,20,250,4823,146,Latibonit,Ti Rivyè Latibonit,2e Ba Kousen II,Desalin,84.9,15.2,0,0,64,654011,Bovin,0,20
+507,-73.1451720336189,18.4604416136972,4ème Bezin,Nippes,Petite Rivière de Nippes,1012-04,Miragoâne,22.5757,5,3,4,0,530,3470,154,Nip,Ti Rivyè Nip,4e Bezen,Miragwàn,44.3,55.7,0,0,63,502727,Bovin,89,8
+508,-72.4872656475539,18.4153029832691,8ème Beauséjour,Ouest,Léogane,121-08,Léogâne,24.434,0,4,5,380,1480,6172,253,Lwès,Leyogàn,8e Bosejou,Leyogàn,0,24.3,75.7,0,68,687210,Bovin,100,5
+509,-72.0580514947013,19.4176315096281,2ème Bois de Lance,Nord,Ranquitte,343-02,Saint Raphaël,31.2311,10,4,5,140,800,7171,230,Nò,Rankit,2e Bwa Lans,Sen Rafayèl,10.7,78.8,10.5,0,59,213839,Bovin,26,0
+510,-72.5516094680781,18.4337454985044,9ème Citronniers,Ouest,Léogane,121-09,Léogâne,20.0645,10,4,5,90,850,5868,292,Lwès,Leyogàn,9e Sitwonye,Leyogàn,3,67.1,29.9,0,67,291332,Bovin,88,0
+511,-72.0234843239156,19.3780693109315,3ème Cracaraille,Nord,Ranquitte,343-03,Saint Raphaël,23.3694,21,4,5,390,780,4206,180,Nò,Rankit,3e Krakaray,Sen Rafayèl,37.6,61.4,1,0,61,239823,Bovin,42,0
+512,-73.2229423344879,18.4422536385031,2ème Cholette,Nippes,Petite Rivière de Nippes,1012-02,Miragoâne,20.2759,41,3,4,0,910,3444,170,Nip,Ti Rivyè Nip,2e Cholèt,Miragwàn,22.5,47,30.5,0,70,289641,Bovin,21,0
+513,-72.523911855918,18.4484127516273,6ème Oranger,Ouest,Léogane,121-06,Léogâne,20.6639,3,4,5,100,1130,6095,295,Lwès,Leyogàn,6e Zoranje,Leyogàn,0,70.6,29.4,0,68,394479,Bovin,97,0
+514,-73.1930825044138,18.4631840061922,3ème Silegue,Nippes,Petite Rivière de Nippes,1012-03,Miragoâne,28.9111,61,3,4,0,580,5122,177,Nip,Ti Rivyè Nip,3e Silèg,Miragwàn,25.8,53.5,20.7,0,60,582756,Bovin,5,22
+515,-72.4836698221549,18.4527729896964,7ème Parques,Ouest,Léogane,121-07,Léogâne,24.3086,25,4,5,130,1310,8859,364,Lwès,Leyogàn,7e Pak,Leyogàn,0,15.8,83.3,0.9,69,250779,Bovin,99,4
+516,-72.0877722324763,19.3968429856021,1ère Bac à Soude,Nord,Ranquitte,343-01,Saint Raphaël,25.9281,37,3,4,160,630,10584,408,Nò,Rankit,1e Bakasoud,Sen Rafayèl,71.6,25.1,3.3,0,53,281897,Bovin,14,0
+517,-72.6405272560087,18.3706056426562,4ème Fond de Boudin,Ouest,Léogane,121-04,Léogâne,27.1393,24,3,4,240,770,9894,365,Lwès,Leyogàn,4e Fon Bouden,Leyogàn,19.4,77.8,2.8,0,50,145825,Bovin,4,0
+518,-73.2570341751102,18.4545159488788,1ère Fonds de Lianes,Nippes,Petite Rivière de Nippes,1012-01,Miragoâne,17.5037,36,3,4,0,860,6239,356,Nip,Ti Rivyè Nip,1e Fon Lyann,Miragwàn,38.3,42.3,19.5,0,57,580352,Bovin,8,0
+519,-72.6663793989714,18.4179867891891,5ème Palmiste à Vins,Ouest,Léogane,121-05,Léogâne,38.8792,62,3,3,10,690,15798,406,Lwès,Leyogàn,5e Palmis Aven,Leyogàn,12.7,72.2,15,0,49,170934,Bovin,36,30
+520,-72.5981887669148,18.5382313121772,2ème Petite Rivière,Ouest,Léogane,121-02,Léogâne,40.9246,96,3,3,0,30,74081,1810,Lwès,Leyogàn,2e Ti Rivyè,Leyogàn,100,0,0,0,41,732800,Bovin,0,0
+521,-72.5863057434765,18.490298330497,3ème Grande Rivère,Ouest,Léogane,121-03,Léogâne,36.1091,98,3,4,20,220,65999,1828,Lwès,Leyogàn,3e Gran Rivyè,Leyogàn,92,5.8,2.2,0,38,1178482,Bovin,5,0
+522,-72.4608421229847,19.7058866793414,6ème Bras Gauche,Nord,Port Margot,352-06,Borgne,26.1916,52,4,5,60,1070,5590,213,Nò,Pò Mago,6e Ba Gòch,Obòy,18.8,52.5,28.7,0,58,421928,Bovin,0,0
+523,-72.6417022170384,18.479065180129,1ère Dessources,Ouest,Léogane,121-01,Léogâne,40.3994,96,3,3,0,70,72022,1783,Lwès,Leyogàn,1e Desous,Leyogàn,98.2,1.8,0,0,38,1513838,Bovin,8,3
+524,-72.1754723275636,19.6569247995791,3ème Morne Pelé,Nord,Quartier Morin,312-03,Cap Haïtien,32.2279,80,3,4,20,550,16957,526,Nò,Katye Moren,3e Mòn Pele,Kap Ayisyen,91,4.1,5,0,51,626793,Bovin,0,0
+525,-72.4798860017035,19.7796321148691,4ème Haut Petit Borgne,Nord,Port Margot,352-04,Borgne,22.0048,35,4,5,30,1170,1338,61,Nò,Pò Mago,4e Wo Ti Boy,Obòy,4.2,57.1,38.6,0,78,26041,Bovin,3,0
+526,-72.4428974729212,19.7991071046474,5ème Bas Quartier,Nord,Port Margot,352-05,Borgne,28.5089,69,4,4,0,310,10048,352,Nò,Pò Mago,5e Ba Katye,Obòy,67.9,27.8,4.2,0,59,263273,Bovin,19,0
+527,-72.1981513932093,19.3592826330324,4ème Sanyago,Nord,St. Raphaël,341-04,Saint Raphaël,84.0289,55,2,4,310,750,43292,515,Nò,Sen Rafayèl,4e Sanyago,Sen Rafayèl,94.1,5.8,0.1,0,55,869044,Bovin,54,0
+528,-72.4927904721654,18.507037021685,2ème Morne Chandelle,Ouest,Gressier,116-02,Port-au-Prince,34.8014,93,3,4,0,780,26717,768,Lwès,Gresye,2e Mòn Chandèl,Pòtoprens,19,54.1,24.5,2.3,42,1911266,Bovin,29,0
+529,-72.436007845249,19.7597960513524,2ème Bas Petit Borgne,Nord,Port Margot,352-02,Borgne,8.5111,83,4,4,20,210,9384,1103,Nò,Pò Mago,2e Ba Ti Bòy,Obòy,74.8,25.2,0,0,50,219774,Bovin,0,0
+530,-72.1612396074336,19.7182504486774,1ère Basse Plaine,Nord,Quartier Morin,312-01,Cap Haïtien,27.5343,95,3,4,0,20,23489,853,Nò,Katye Moren,1e Bas Plenn,Kap Ayisyen,100,0,0,0,54,264117,Bovin,0,0
+531,-72.1735007406967,19.4546846234435,2ème Mathurin,Nord,St. Raphaël,341-02,Saint Raphaël,37.6652,6,2,4,360,1120,4607,122,Nò,Sen Rafayèl,2e Matiren,Sen Rafayèl,3.2,59.5,37.2,0,60,324423,Bovin,93,0
+532,-72.5361880930679,18.501384063481,3ème Petit Boucan,Ouest,Gressier,116-03,Port-au-Prince,39.8819,82,3,4,0,790,26645,668,Lwès,Gresye,3e Ti Boukan,Pòtoprens,38,52.8,6,3.2,42,262412,Bovin,1,0
+533,-71.9163206239817,18.8085146430363,2ème Juampas,Centre,Lascahobas,631-02,Lascahobas,77.7966,73,5,5,170,1210,38968,501,Sant,Laskawobas,2e Jwanmpa,Laskawobas,28.9,48.5,22.6,0,56,1244661,Bovin,35,1
+534,-72.4705941301707,19.7456591194548,3ème Corail,Nord,Port Margot,352-03,Borgne,25.883,67,4,5,30,1000,5992,232,Nò,Pò Mago,3e Koray,Obòy,32.9,35.9,31.2,0,72,312950,Bovin,1,0
+535,-72.1674381414629,19.4020674845075,3ème Bouyaha,Nord,St. Raphaël,341-03,Saint Raphaël,30.2056,60,2,3,340,550,10707,354,Nò,Sen Rafayèl,3e Bouyaya,Sen Rafayèl,91,8.6,0.4,0,52,199998,Bovin,77,0
+536,-71.9470995802048,18.9114888403773,3ème La Hoye,Centre,Lascahobas,631-03,Lascahobas,109.1377,34,3,5,160,480,28282,259,Sant,Laskawobas,3e Lawòy,Laskawobas,79.5,19.4,1.1,0,58,917874,Bovin,48,36
+537,-72.3881164404241,19.6587418662682,6ème Soufrière,Nord,Limbé,361-06,Limbé,14.4246,1,4,5,50,600,2136,148,Nò,Lenbe,6e Soufriyè,Lenbe,21,52,27,0,68,388199,Bovin,52,0
+538,-72.4771721708561,18.5313292573336,1ère Morne à Bateau,Ouest,Gressier,116-01,Port-au-Prince,14.9294,95,4,4,0,520,23263,1558,Lwès,Gresye,1e Mòn Bato,Pòtoprens,39,53.7,7.3,0,39,422054,Bovin,0,0
+539,-72.4242126062339,19.7023529461842,7ème Ravine Desroches,Nord,Limbé,361-07,Limbé,10.8589,99,4,5,30,610,22743,2094,Nò,Lenbe,7e Ravin Dewòch,Lenbe,45.6,40.4,13.9,0,52,322108,Bovin,60,0
+540,-72.4954982050654,19.7202654155653,1ère Grande Plaine,Nord,Port Margot,352-01,Borgne,12.5001,0,5,5,110,1010,1405,112,Nò,Pò Mago,1e Gran Plenn,Obòy,0.1,44.4,55.4,0,73,75514,Bovin,70,0
+541,-72.2264352990891,19.4581971577021,1ère Bois Neuf,Nord,St. Raphaël,341-01,Saint Raphaël,31.7056,49,2,4,390,1080,8710,275,Nò,Sen Rafayèl,1e Bwa Nèf,Sen Rafayèl,11.1,77.9,11,0,62,95548,Bovin,74,8
+542,-71.9954755548209,18.8616219267033,1ère Petit Fond,Centre,Lascahobas,631-01,Lascahobas,68.5433,33,5,5,150,1150,15103,220,Sant,Laskawobas,1e Ti Fon,Laskawobas,22.8,53,23.3,0.9,73,843313,Bovin,82,0
+543,-72.4214020048962,19.676662742058,4ème Chabotte,Nord,Limbé,361-04,Limbé,22.4368,86,4,5,30,1080,10980,489,Nò,Lenbe,4e Chabote,Lenbe,34.1,41.5,24.4,0,56,143435,Bovin,51,0
+544,-73.9802950304524,18.1962754376247,2ème Renaudin,Sud,Roche-à-Bateau,743-02,Coteaux,7.6631,51,3,5,0,430,2569,335,Sid,Wòchabato,2e Renoden,Okoto,17.1,70.8,12,0,73,189827,Bovin,11,0
+545,-72.4285821690802,19.6411286869464,5ème Camp Coq,Nord,Limbé,361-05,Limbé,21.8305,79,5,5,70,910,6548,300,Nò,Lenbe,5e Kankòk,Lenbe,0,51.7,48.4,0,61,315775,Bovin,1,0
+546,-73.9820588624958,18.2296727426372,3ème Beauclos,Sud,Roche-à-Bateau,743-03,Coteaux,14.2261,0,4,5,80,880,3691,259,Sid,Wòchabato,3e Boklo,Okoto,0,53.9,46.1,0,77,227858,Bovin,100,0
+547,-72.3713640074639,19.6963654158237,3ème Acul Jeannot,Nord,Limbé,361-03,Limbé,23.9576,76,4,5,30,610,7948,332,Nò,Lenbe,3e Akil Jano,Lenbe,66.4,11.6,22,0,54,377108,Bovin,1,0
+548,-73.9672660111017,18.1696372346302,1ère Beaulieu,Sud,Roche-à-Bateau,743-01,Coteaux,27.5829,48,3,5,0,430,11551,419,Sid,Wòchabato,1e Bolye,Okoto,31.5,68.5,0,0,55,387627,Caprin,56,0
+549,-72.3033115053616,18.7461518315329,10ème des Orangers,Ouest,Croix-des-Bouquets,131-10,Croix des Bouquets,107.7991,53,3,4,0,1240,22943,213,Lwès,Kwadèboukè,10e Zoranje,Kwadèboukè,17.3,58.3,24.4,0,61,616104,Bovin,93,29
+550,-72.2175057851554,19.6028827312807,2ème Bonnet à l'Evêque,Nord,Milot,323-02,Acul du Nord,13.6433,93,3,5,60,850,11232,823,Nò,Milo,2e Bonè Levèk,Akildinò,26.5,36.6,36.9,0,58,68584,Bovin,4,0
+551,-72.2135215295113,19.6904746488283,3ème Génipailler,Nord,Milot,323-03,Acul du Nord,28.7083,82,3,4,10,30,10738,374,Nò,Milo,3e Jenipaye,Akildinò,100,0,0,0,55,525339,Bovin,0,0
+552,-72.2227325813487,19.6402072885977,1ère Perches du Bonnet,Nord,Milot,323-01,Acul du Nord,27.9115,77,3,4,10,460,12766,457,Nò,Milo,1e Pèchdibonè,Akildinò,81.9,16.5,1.6,0,53,323754,Bovin,2,0
+553,-72.1275181639078,19.4439847503996,2ème Bailly,Nord,Bahon,332-02,Grande Rivière Du Nord,37.8649,51,2,4,110,1010,14506,383,Nò,Bawonn,2e Bayi,Gran Rivyè Nò,17.5,61.2,21.3,0,53,336721,Bovin,46,0
+554,-72.1553752467067,19.4887333834323,3ème Montagne Noire,Nord,Bahon,332-03,Grande Rivière Du Nord,13.0231,30,4,4,110,1080,3320,255,Nò,Bawonn,3e Montay Nwa,Gran Rivyè Nò,7.2,55.8,37,0,59,255898,Bovin,98,5
+555,-72.0975375426488,19.4808570519572,1ère Bois Pin,Nord,Bahon,332-01,Grande Rivière Du Nord,28.3362,13,4,5,110,730,6965,246,Nò,Bawonn,1e Bwapen,Gran Rivyè Nò,32.3,65.8,1.9,0,64,134958,Bovin,48,2
+556,-72.8161205882224,19.8415296090986,2ème Source Beauvoir,Nord Ouest,Chansolme,914-02,Port-de-Paix,27.3813,84,2,4,50,960,11361,415,Nòdwès,Chansòm,2e Sous Bovwa,Pòdpè,22.9,71,6.1,0,59,859245,Bovin,41,0
+557,-72.8068832228195,19.8751503745767,1ère Chansolme,Nord Ouest,Chansolme,914-01,Port-de-Paix,26.3732,89,3,4,30,900,15978,606,Nòdwès,Chansòm,1e Chansòm,Pòdpè,12.4,82,5.6,0,65,644244,Bovin,35,0
+558,-72.6694303072757,19.6336441705204,8ème Ravine Gros Morne,Artibonite,Gros Morne,521-08,Gros Morne,47.8292,82,3,3,190,1000,33573,702,Latibonit,Gwo Mòn,8e Ravin Gwo Mòn,Gwo Mòn,52.4,38.1,9.5,0,49,630089,Caprin,53,0
+559,-72.7682881146878,19.7202795118947,6ème Savane Carrée,Artibonite,Gros Morne,521-06,Gros Morne,107.9088,38,2,3,130,780,34315,318,Latibonit,Gwo Mòn,6e Savann Kare,Gwo Mòn,46.3,51.9,1.9,0,55,789813,Bovin,56,0
+560,-72.7425571986193,19.6510487544437,7ème Moulin,Artibonite,Gros Morne,521-07,Gros Morne,61.2822,46,3,3,180,960,25486,416,Latibonit,Gwo Mòn,7e Moulen,Gwo Mòn,26.4,66.6,7,0,56,460531,Caprin,43,0
+561,-72.6876336174989,19.7553203262012,4ème L'Acul,Artibonite,Gros Morne,521-04,Gros Morne,39.5717,74,3,5,210,1120,18223,461,Latibonit,Gwo Mòn,4e Lakil,Gwo Mòn,21.2,46.9,31.9,0,54,558992,Caprin,4,0
+562,-72.7181647570214,19.7845181683845,5ème Pendu,Artibonite,Gros Morne,521-05,Gros Morne,32.0167,32,3,5,190,1090,9482,296,Latibonit,Gwo Mòn,5e Pandi,Gwo Mòn,18.8,65.6,15.6,0,70,381766,Bovin,14,0
+563,-72.6359255672637,19.7066395221832,2ème Rivière Mancelle,Artibonite,Gros Morne,521-02,Gros Morne,39.9956,53,3,5,210,1080,18089,452,Latibonit,Gwo Mòn,2e Rivyè Mansèl,Gwo Mòn,14,60.3,25.7,0,51,451175,Bovin,11,0
+564,-72.6722767018665,19.7160296626012,3ème Rivière Blanche,Artibonite,Gros Morne,521-03,Gros Morne,36.596,68,3,5,180,1090,29785,814,Latibonit,Gwo Mòn,3e Rivyè Blanch,Gwo Mòn,33.2,31.9,34.9,0,50,530903,Bovin,11,0
+565,-72.6118211391075,19.6645665929152,1ère Boucan Richard,Artibonite,Gros Morne,521-01,Gros Morne,32.3366,2,3,4,220,1130,7773,240,Latibonit,Gwo Mòn,1e Boukan Richa,Gwo Mòn,0.3,67.2,30.6,1.8,54,272603,Bovin,77,0
+566,-72.6901779706283,19.3111389394128,1ère Desdunes,Artibonite,Desdunes,544-01,Dessalines,101.6623,94,1,2,0,10,38906,383,Latibonit,Dedin,1e Dedin,Desalin,,,,,58,607346,Bovin,73,0
+567,-74.362897612708,18.4089078477206,1ère Matador,Grande Anse,Les Irois,823-01,Anse D'Ainault,67.1986,40,3,6,0,1220,11145,166,Grandans,Lèziwa,1e Matadò,Ansdeno,6.3,49.6,44.2,0,61,662914,Bovin,45,6
+568,-72.8263762515872,18.7468623686082,6ème Petite Anse,Ouest,Anse-à-Galet,151-06,La Gonave,38.9969,1,2,3,0,460,7485,192,Lwès,Ansagalè,6e Titans,Lagonav,50.4,43.5,6.1,0,71,902098,Bovin,85,2
+569,-72.2546851887277,18.7166666021527,9ème Crochus,Ouest,Croix-des-Bouquets,131-09,Croix des Bouquets,55.8457,9,2,3,30,1160,13405,240,Lwès,Kwadèboukè,9e Kwochi,Kwadèboukè,,,,,59,377123,Bovin,100,100
+570,-72.2410482424165,18.6243292117323,2ème Varreux,Ouest,Croix-des-Bouquets,131-02,Croix des Bouquets,47.0378,100,3,5,20,70,151312,3217,Lwès,Kwadèboukè,2e Vare,Kwadèboukè,54.7,32.9,12.3,0,34,827158,Bovin,8,0
