@@ -1,5 +1,6 @@
 # Haiti_rural-socioeconomics
-Shiny app tool for visualizing and exploring socio-economic and geographical data of rural sections summarized by commune in Haiti. By Patrick Prezeau Stephenson and Jean Francois Tardieu.
+Shiny app tool for visualizing and exploring socio-economic and geographical data of rural sections summarized by commune in Haiti. The live App can be found here: https://stepminer.shinyapps.io/Haiti_Rural_Socio-Economics/    
+Authors: Patrick Prezeau Stephenson and Jean Francois Tardieu.
 # Haiti Rural Sections Insights Shiny App
 
 ## Overview
