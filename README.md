@@ -5,7 +5,7 @@ Authors: Patrick Prezeau Stephenson and Jean Francois Tardieu.
 
 ## Overview
 
-The **Haiti Rural Sections socioeconomics** Shiny app is an interactive tool for visualizing and exploring socio-economic and geographical data of rural sections in Haiti. The app provides insights into variables such as population density, poverty rates, and access to essential services like schools and health centers. The app is built using `R` and `Shiny` and includes interactive maps, bar plots, correlation heatmaps, and a table for exploring the data.
+The **Haiti Rural Sections socioeconomics** Shiny app is an interactive tool for visualizing and exploring socio-economic and geographical data of rural sections in Haiti. The app provides insights into variables such as population density, poverty rates, and access to essential services like schools and health centers. The app is built using `R` and `Shiny` and includes interactive maps, bar plots, correlation heatmaps, and a table for exploring the data. https://stepminer.shinyapps.io/Communal_Sections_Clusters/
 
 ## Features
 
