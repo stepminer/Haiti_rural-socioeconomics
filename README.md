@@ -1,5 +1,5 @@
 # Haiti_rural-socioeconomics
-Shiny app tool for visualizing and exploring socio-economic and geographical data of rural sections summarized by commune in Haiti. The live App can be found here: https://stepminer.shinyapps.io/k-means_rural_sections_clusters_Haiti/)   
+Shiny app tool for visualizing and exploring socio-economic and geographical data of rural sections summarized by commune in Haiti. The live App can be found here: https://stepminer.shinyapps.io/k-means_rural_sections_clusters_Haiti/   
 Authors: Patrick Prezeau Stephenson and Jean Francois Tardieu.
 # Haiti Rural Sections Insights Shiny App
 
